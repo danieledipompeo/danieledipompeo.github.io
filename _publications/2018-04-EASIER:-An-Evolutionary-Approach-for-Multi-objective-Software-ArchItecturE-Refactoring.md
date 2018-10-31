@@ -12,4 +12,4 @@ This paper is about EASIER, which is a research project concercing metaheuristic
 
 [Download paper here](http://danieledipompeo.github.io/files/2018-icsa-easier.pdf)
 
-Recommended citation: [easier.bib](http://danieledipompeo.github.it/files/2018-icsa-easier.bib).
+Recommended citation: [easier.bib](http://danieledipompeo.github.com/files/2018-icsa-easier.bib).
