@@ -7,6 +7,7 @@ date: 2018-04-01
 venue: '2018 IEEE International Conference on Software Architecture Companion'
 paperurl: 'http://danieledipompeo.github.io/files/2018-icsa-tutorial.pdf'
 citation: 'Arcelli, Davide, Vittorio Cortellessa, and Daniele Di Pompeo. "Performance-Driven Software Architecture Refactoring." In 2018 IEEE International Conference on Software Architecture Companion (ICSA-C), pp. 2-3. IEEE, 2018.'
+
 ---
 This paper is about our given tutorial at ICSA 2018.
 
