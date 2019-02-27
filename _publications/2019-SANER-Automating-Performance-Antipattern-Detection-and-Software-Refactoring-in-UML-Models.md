@@ -1,5 +1,5 @@
 ---
-title: 'Automating Performance Antipattern Detection and Software Refactoring in UML Models'
+title: "Automating Performance Antipattern Detection and Software Refactoring in UML Models"
 collection: publications
 permalink: /publication/2019_SANER_Automating-Performance-Antipattern-Detection-and-Software-Refactoring-in-UML-Models
 date: 2019-02-22
