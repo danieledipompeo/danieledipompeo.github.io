@@ -1,7 +1,11 @@
 ---
 layout: archive
 title: "Publications"
+excerpt: "About of my publications"
 permalink: /
+redirect_from: 
+  - /publications/
+  - /publications.html
 author_profile: true
 ---
 
