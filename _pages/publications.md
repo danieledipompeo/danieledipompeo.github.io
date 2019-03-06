@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "List of my publications"
 excerpt: "About of my publications"
 permalink: /
 redirect_from: 
