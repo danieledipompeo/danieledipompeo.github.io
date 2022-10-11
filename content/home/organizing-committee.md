@@ -19,6 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "ICPE 2023"
+  organization_url = "https://icpe2023.spec.org/organizing-committee/"
+  title = "Posters and Demos Chairs"
+  date_start = "2023-04-15"
+
+[[item]]
+  organization = "Wosp-C 2022"
+  organization_url = "https://wosp-c.github.io/wosp-c-22/"
+  title = "Chair"
+  date_start = "2022-04-09"
+
+[[item]]
   organization = "ICPE 2021"
   organization_url = "https://icpe2021.spec.org/organization/organizing-committee"
   title = "Publication Chair"

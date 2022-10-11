@@ -17,13 +17,37 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Post-Doc"
   company = "Center of Excellence EMERGE"
   company_url = ""
   location = "Italy"
-  date_start = "2020-11-01"
+  date_start = "2021-12-01"
   date_end = ""
+  description = ""
+
+[[experience]]
+  title = "Expert of the Subject in Software Quality Engineering"
+  company = "University of L'Aquila"
+  company_url = ""
+  location = "Italy"
+  date_start = "2021-10-01"
+  date_end = "2022-09-30"
+  description = """
+  Responsibilities include:
+  
+  * Supporting students during the SQE course
+  * Member of the Exam Committee
+  """
+
+[[experience]]
+  title = "Post-Doc"
+  company = "Center of Excellence EMERGE"
+  company_url = ""
+  location = "Italy"
+  date_start = "2020-12-01"
+  date_end = "2021-11-30"
   description = ""
 
 [[experience]]
@@ -42,7 +66,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Italy"
   date_start = "2020-10-01"
-  date_end = ""
+  date_end = "2021-09-30"
   description = """
   Responsibilities include:
   

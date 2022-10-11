@@ -1,6 +1,7 @@
 ---
-title: 
-summary: 
+title: Emerge
+summary: Augmentation networks for automotive/rail
+ 
 tags:
 - Italian project
 
