@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-11-26T15:39:55+01:00
+lastmod: 2023-02-24T17:26:40+01:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-26T14:39:55.205259Z'
+publishDate: '2023-02-24T16:26:39.814772Z'
 publication_types:
 - '1'
 abstract: ''
@@ -39,4 +39,7 @@ publication: '*47th Euromicro Conference on Software Engineering and Advanced Ap
   SEAA 2021, Palermo, Italy, September 1-3, 2021*'
 url_pdf: https://doi.org/10.1109/SEAA53835.2021.00036
 doi: 10.1109/SEAA53835.2021.00036
+links:
+- name: URL
+  url: https://doi.org/10.1109/SEAA53835.2021.00036
 ---

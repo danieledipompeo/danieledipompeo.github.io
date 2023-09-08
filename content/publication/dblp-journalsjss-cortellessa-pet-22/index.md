@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Vittorio Cortellessa
-- admin
+- Daniele Di Pompeo
 - Romina Eramo
 - Michele Tucci
 tags: []
@@ -22,8 +22,8 @@ url_pdf: 'https://doi.org/10.1016/j.jss.2021.111084'
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'The process'
-  focal_point: ""
+  caption: 'Average response times and utilizations computed on the QN for the E-Shopper case study.'
+  focal_point: 'Top'
   preview_only: false
 
 # Projects (optional).
@@ -40,6 +40,10 @@ publishDate: '2022-08-18T13:21:38.851426Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '2'
+doi: 10.1016/j.jss.2021.111084
+links:
+- name: URL
+  url: https://doi.org/10.1016/j.jss.2021.111084
 abstract: 'Microservices are quite widely impacting on the software industry in recent years. Rapid evolution and continuous deployment represent specific benefits of microservice-based systems, but they may have a significant impact on non-functional properties like performance. Despite the obvious relevance of this property, there is still a lack of systematic approaches that explicitly take into account performance issues in the lifecycle of microservice-based systems.
 
 In such a context of evolution and re-deployment, Model-Driven Engineering techniques can provide major support to various software engineering activities, and in particular they can allow managing the relationships between a running system and its architectural model.

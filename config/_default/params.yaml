@@ -20,19 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: daniele.dipompeo@univaq.it
-phone: 
+email: daniele[dot]dipompeo[at]univaq[dot]it
+phone: +39 0862 433183
 address:
-  street: Via Vetoio, snc
+  street: Via Vetoio
   city: L'Aquila
-  region: 
   postcode: '67100'
   country: Italy
   country_code: ITA
 coordinates:
   latitude: '42.3691503'
   longitude: '13.3550698'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Enter Building "Alan Turing" and take the stairs to Office 225 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'

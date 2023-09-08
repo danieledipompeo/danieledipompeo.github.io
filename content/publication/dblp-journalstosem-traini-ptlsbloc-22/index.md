@@ -20,7 +20,6 @@ date: '2022-01-01'
 lastmod: 2022-08-18T15:21:39+02:00
 featured: false
 draft: false
-doi: "10.1145/3485136"
 url_pdf: 'https://dl.acm.org/doi/10.1145/3485136'
 
 # Featured image
@@ -37,9 +36,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-18T13:21:38.935596Z'
+publishDate: '2023-02-24T16:26:38.958969Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*ACM Trans. Softw. Eng. Methodol.*'
+doi: 10.1145/3485136
+links:
+- name: URL
+  url: https://doi.org/10.1145/3485136
 ---

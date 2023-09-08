@@ -79,4 +79,3 @@ security:
     getenv:
       - ^HUGO_
       - ^WC_
-

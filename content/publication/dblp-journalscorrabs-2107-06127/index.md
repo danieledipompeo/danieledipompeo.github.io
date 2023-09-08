@@ -13,9 +13,9 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-08-18T15:21:39+02:00
+lastmod: 2023-08-29T17:57:34+02:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -31,9 +31,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-18T13:21:39.197673Z'
+publishDate: '2023-08-29T15:57:34.062244Z'
 publication_types:
-- '2'
+- '3'
 abstract: ''
 publication: '*CoRR*'
+links:
+- name: URL
+  url: https://arxiv.org/abs/2107.06127
 ---

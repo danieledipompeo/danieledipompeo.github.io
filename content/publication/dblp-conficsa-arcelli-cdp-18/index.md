@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2021-05-25T19:40:18+02:00
+lastmod: 2023-08-29T17:57:34+02:00
 featured: false
 draft: false
 
@@ -31,12 +31,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-25T17:40:18.227009Z'
+publishDate: '2023-08-29T15:57:34.233240Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*IEEE International Conference on Software Architecture, ICSA 2018,
   Seattle, WA, USA, April 30 - May 4, 2018*'
-url_pdf: https://doi.org/10.1109/ICSA.2018.00020
 doi: 10.1109/ICSA.2018.00020
+links:
+- name: URL
+  url: https://doi.org/10.1109/ICSA.2018.00020
 ---

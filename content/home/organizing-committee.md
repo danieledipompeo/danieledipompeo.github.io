@@ -19,16 +19,40 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "SSCOPE 2023"
+  organization_url = "https://sscope-workshop.github.io/"
+  title = "1st International Workshop on Sustainable Service-Oriented Computing: Addressing Environmental, Social, and Economic Dimensions"
+  date_start = "2023-11-28"
+
+[[item]]
+  organization = "QUALIFIER 2023"
+  organization_url = "https://qualifier-workshop.github.io/"
+  title = "1st International Workshop on Quality in Software Architecture"
+  date_start = "2023-09-19"
+
+[[item]]
   organization = "ICPE 2023"
-  organization_url = "https://icpe2023.spec.org/organizing-committee/"
-  title = "Posters and Demos Chairs"
+  organization_url = "https://icpe2023.spec.org/organization/organizing-committee"
+  title = "Poster and Demos Chair"
   date_start = "2023-04-15"
 
 [[item]]
-  organization = "Wosp-C 2022"
+  organization = "WOSP-C 2023"
+  organization_url = "https://wosp-c.github.io/wosp-c-23/"
+  title = "Chair"
+  date_start = "2023-04-15"
+
+[[item]]
+  organization = "Primo Working Day del System and Service Quality CINI Working Group"
+  organization_url = "https://www.consorzio-cini.it/index.php/it/gdl/system-and-service-quality"
+  title = "Chair"
+  date_start = "2022-11-25"
+
+[[item]]
+  organization = "WOSP-C 2022"
   organization_url = "https://wosp-c.github.io/wosp-c-22/"
   title = "Chair"
-  date_start = "2022-04-09"
+  date_start = "2022-04-10"
 
 [[item]]
   organization = "ICPE 2021"

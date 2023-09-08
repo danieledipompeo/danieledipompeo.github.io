@@ -6,7 +6,7 @@ title: Daniele Di Pompeo
 superuser: true
 
 # Role/position
-role: Post-doc researcher 
+role: Assistant professor (from March, 1st 2023)
 
 # Organizations/Affiliations
 organizations:
@@ -68,5 +68,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Daniele Di Pompeo is a Post-doc researcher at Univesrsity of L'Aquila. He has got the PhD in ICT on 2019, and his research interests are mainly realated to model-based performance analysis. In 2020 he has elected as "Expert of the subject" in Software Quality Engineering. He is member of the Software Engineering and Architecture Laboratory research group.
+Daniele Di Pompeo is an Assistant Professor (RTD-a) at the University of L'Aquila, Italy. He received his Ph.D. in ICT from the University of L'Aquila in 2019.
+His research interests include model-based performance analysis, software refactoring, and search-based software engineering.
+He has been elected as an "Expert of the subject" of Software Quality Engineering since 2019.
+He is a member of the <a href="https://spencerlab-uaq.github.io" target="_blank">SPENCER</a> research group.
+His research activity is currently supported by the European project <a href="http://sobigdata.eu/" target="_blank">SoBigData.it</a>. 
 
