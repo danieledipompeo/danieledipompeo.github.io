@@ -25,16 +25,11 @@ date_format = "Jan 2006"
   location = "Italy"
   date_start = "2023-03-01"
   date_end = ""
-  description = ""
+  description = """
+  Responsibilities include:
 
-[[experience]]
-  title = "Post-Doc"
-  company = "Center of Excellence EMERGE"
-  company_url = ""
-  location = "Italy"
-  date_start = "2020-11-01"
-  date_end = "2023-02-28"
-  description = ""
+  * Co-advisoring of Payel Patra Ph.D. candidate
+  """
 
 [[experience]]
   title = "Expert of the Subject in Software Quality Engineering"
@@ -42,13 +37,22 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Italy"
   date_start = "2020-10-01"
-  date_end = "2021-09-30"
+  date_end = ""
   description = """
   Responsibilities include:
   
   * Supporting students during the SQE course
   * Member of the Exam Committee
   """
+
+[[experience]]
+  title = "Post-Doc"
+  company = "Center of Excellence EMERGE"
+  company_url = ""
+  location = "Italy"
+  date_start = "2019-11-01"
+  date_end = "2022-02-28"
+  description = ""
 
 [[experience]]
   title = "Post-Doc"

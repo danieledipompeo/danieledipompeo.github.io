@@ -19,6 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Thesis supervisor - Alessandro Sablone"
+  organization = "University of L'Aquila"
+  date_start = "2022-10-21"
+
+[[item]]
   title = "Thesis co-supervisor - Michele Intrevado"
   organization = "University of L'Aquila"
   date_start = "2022-03-26"
