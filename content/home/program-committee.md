@@ -19,6 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "International Conference on Evaluation and Assessment in Software Engineering (EASE 2024)"
+  organization_url = "https://conf.researchr.org/home/ease-2024"
+  title = "Program Committee"
+  date_start = "2024-06-18"
+  
+[[item]]
   organization = "IEEE International Conference on Software Architecture (ICSA 2024)"
   organization_url = "https://conf.researchr.org/home/icsa-2024"
   title = "Technical track Committee"
@@ -40,6 +46,18 @@ date_format = "Jan 2006"
   organization = "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)"
   organization_url = "https://conf.researchr.org/track/saner-2024/saner-2024-papers"
   title = "Technical track Committee"
+  date_start = "2024-03-15"
+
+[[item]]
+  organization = "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)"
+  organization_url = "https://conf.researchr.org/track/saner-2024/saner-2024-short-papers-and-posters-track-"
+  title = "Short paper track Committee"
+  date_start = "2024-03-15"
+
+[[item]]
+  organization = "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)"
+  organization_url = "https://conf.researchr.org/track/saner-2024/saner-2024-tool-demo-track-"
+  title = "Tool demo track Committee"
   date_start = "2024-03-15"
 
 [[item]]
