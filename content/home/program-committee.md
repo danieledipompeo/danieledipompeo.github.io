@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "International Conference on Evaluation and Assessment in Software Engineering (EASE 2024)"
-  organization_url = "https://conf.researchr.org/home/ease-2024"
+  organization = "Workshop on Advances in Model Based Testing (A-MOST 2024)"
+  organization_url = "https://conf.researchr.org/home/icst-2024/a-most-2024"
   title = "Program Committee"
   date_start = "2024-06-18"
   
@@ -35,6 +35,12 @@ date_format = "Jan 2006"
   organization_url = "https://icpe2024.spec.org/program-committee/"
   title = "Program Committee"
   date_start = "2024-05-07"
+
+[[item]]
+  organization = "International Conference on Evaluation and Assessment in Software Engineering (EASE 2024)"
+  organization_url = "https://conf.researchr.org/home/ease-2024"
+  title = "Program Committee"
+  date_start = "2024-05-01"
 
 [[item]]
   organization = "International Conference on Software Engineering (ICSE 2024)"
