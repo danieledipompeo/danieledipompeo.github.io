@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   organization = "Chair"
   organization_url = "https://qualifier-workshop.github.io/"
   title = "Chair - 2nd International Workshop on Quality in Software Architecture (QUALIFIER 2024)"
-  date_start = "2024-06-4"
+  date_start = "2024-06-04"
 
 [[item]]
   organization = "Chair"
