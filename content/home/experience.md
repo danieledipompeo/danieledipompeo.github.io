@@ -28,7 +28,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Co-advisoring of Payel Patra Ph.D. candidate
+  * Co-advisoring of Payel Patra Ph.D. candidate (XXXVIII cycle)
+  * Advisoring of Muhammad Waheed Khan Ph.D. candidate (XXXIX cycle)
   """
 
 [[experience]]
