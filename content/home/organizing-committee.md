@@ -19,51 +19,63 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "SSCOPE 2023"
+  organization = "Guest Editor"
+  organization_url = "https://www.sciencedirect.com/journal/journal-of-systems-and-software/about/call-for-papers#quality-in-software-architecture"
+  title = "Journal of Systems and Software Special Issue on Quality in Software Architecture"
+  date_start = "2024-04-01"
+
+[[item]]
+  organization = "Chair"
+  organization_url = "https://qualifier-workshop.github.io/"
+  title = "Chair - 2nd International Workshop on Quality in Software Architecture (QUALIFIER 2024)"
+  date_start = "2024-06-4"
+
+[[item]]
+  organization = "Chair"
   organization_url = "https://sscope-workshop.github.io/"
-  title = "1st International Workshop on Sustainable Service-Oriented Computing: Addressing Environmental, Social, and Economic Dimensions"
+  title = "1st International Workshop on Sustainable Service-Oriented Computing: Addressing Environmental, Social, and Economic Dimensions (SSCOPE 2023)"
   date_start = "2023-11-28"
 
 [[item]]
-  organization = "QUALIFIER 2023"
+  organization = "Chair"
   organization_url = "https://qualifier-workshop.github.io/"
-  title = "1st International Workshop on Quality in Software Architecture"
+  title = "1st International Workshop on Quality in Software Architecture (QUALIFIER 2023)"
   date_start = "2023-09-19"
 
 [[item]]
-  organization = "ICPE 2023"
+  organization = "Chair"
   organization_url = "https://icpe2023.spec.org/organization/organizing-committee"
-  title = "Poster and Demos Chair"
+  title = "Poster and Demos (ICPE 2023)"
   date_start = "2023-04-15"
 
 [[item]]
-  organization = "WOSP-C 2023"
+  organization = "Chair"
   organization_url = "https://wosp-c.github.io/wosp-c-23/"
-  title = "Chair"
+  title = "8th Workshop on Challenges in Performance Methods for Software Development (WOSP-C 2023)"
   date_start = "2023-04-15"
 
 [[item]]
-  organization = "Primo Working Day del System and Service Quality CINI Working Group"
+  organization = "Chair"
   organization_url = "https://www.consorzio-cini.it/index.php/it/gdl/system-and-service-quality"
-  title = "Chair"
+  title = "Primo Working Day del System and Service Quality CINI Working Group"
   date_start = "2022-11-25"
 
 [[item]]
-  organization = "WOSP-C 2022"
+  organization = "Chair"
   organization_url = "https://wosp-c.github.io/wosp-c-22/"
-  title = "Chair"
+  title = "7th Workshop on Challenges in Performance Methods for Software Development (WOSP-C 2022)"
   date_start = "2022-04-10"
 
 [[item]]
-  organization = "ICPE 2021"
+  organization = "Chair"
   organization_url = "https://icpe2021.spec.org/organization/organizing-committee"
-  title = "Publication Chair"
+  title = "Publication Chair (ICPE 2021)"
   date_start = "2021-04-19"
 
 [[item]]
-  organization = "ICPE 2017"
+  organization = "Chari"
   organization_url = "https://icpe2017.spec.org/organization/organizing-committee"
-  title = "Web Chair"
+  title = "Web Chair (ICPE 2017)"
   date_start = "2017-04-22"	
 
 +++
