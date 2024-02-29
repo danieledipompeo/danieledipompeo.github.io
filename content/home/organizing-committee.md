@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Chair"
   organization_url = "https://qualifier-workshop.github.io/"
-  title = "Chair - 2nd International Workshop on Quality in Software Architecture (QUALIFIER 2024)"
+  title = "2nd International Workshop on Quality in Software Architecture (QUALIFIER 2024)"
   date_start = "2024-06-04"
 
 [[item]]
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Chair"
   organization_url = "https://icpe2023.spec.org/organization/organizing-committee"
-  title = "Poster and Demos (ICPE 2023)"
+  title = "Poster and Demos Track (ICPE 2023)"
   date_start = "2023-04-15"
 
 [[item]]
@@ -79,9 +79,9 @@ date_format = "Jan 2006"
   date_start = "2021-04-19"
 
 [[item]]
-  organization = "Chari"
+  organization = "Chair"
   organization_url = "https://icpe2017.spec.org/organization/organizing-committee"
-  title = "Web Chair (ICPE 2017)"
+  title = "Web Chair International conference on Software Performance (ICPE 2017)"
   date_start = "2017-04-22"	
 
 +++
