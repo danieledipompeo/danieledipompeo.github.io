@@ -19,6 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Technical Program Chair"
+  organization_url = "https://epew-workshop.github.io/"
+  title = "20th European Performance Engineering Workshop (EPEW 2024)"
+  date_start = "2024-06-15"
+
+[[item]]
   organization = "Guest Editor"
   organization_url = "https://www.sciencedirect.com/journal/journal-of-systems-and-software/about/call-for-papers#quality-in-software-architecture"
   title = "Journal of Systems and Software Special Issue on Quality in Software Architecture"
