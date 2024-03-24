@@ -19,6 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Chair"
+  organization_url = "https://qualifier-workshop.github.io/ECSA2024"
+  title = "3rd International Workshop on Quality in Software Architecture (QUALIFIER 2024)"
+  date_start = "2024-09-02"
+
+[[item]]
   organization = "Technical Program Chair"
   organization_url = "https://epew-workshop.github.io/"
   title = "20th European Performance Engineering Workshop (EPEW 2024)"
