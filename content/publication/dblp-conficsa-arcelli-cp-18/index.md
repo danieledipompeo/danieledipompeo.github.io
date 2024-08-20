@@ -18,7 +18,7 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Internation Conference on Software Architecture*
+publication: In *International Conference on Software Architecture*
 publication_short: In *ICSA*
 
 abstract: "Multi-objective optimization has demonstrated, in the last few years, to be an effective paradigm to tackle different architectural problems, such as service selection, composition and deployment. In particular, multi-objective approaches for searching architectural configurations that optimize quality properties (such as performance, reliability and cost) have been introduced in the last decade. However, a relevant amount of complexity is introduced in this context when performance are considered, often due to expensive iterative generation of performance models and interpretation of results. In this paper we introduce EASIER (Evolutionary Approach for multi-objective Software archItecturE Refactoring), that is an approach for optimizing architecture refactoring based on performance and on the intensity of changes. We focus on the actionable aspects of architectural optimization, instead of merely searching over a set of alternatives. We also start to investigate on the potential influence of performance antipatterns on such process. We have implemented our approach on AEmilia ADL, so to carry out performance analysis and architecture refactoring within the same environment. We demonstrate the effectiveness and applicability of our approach through its experimentation on a case study."

@@ -69,3 +69,7 @@ organization = "1st International Workshop on Software Refactoring (IWoR 2016)"
 date_start = "2016-01-01"
 
 +++
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1S6VQtdZ5Yx7dHQIgj6-jjc279FB8NxI&ehbc=2E312F" width="640" height="480"></iframe>
+
+

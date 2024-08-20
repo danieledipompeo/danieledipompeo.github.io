@@ -20,6 +20,18 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  organization = "22nd International Conference on Service-Oriented Computing"
+  organization_url = "https://icsoc2024.redcad.tn/"
+  title = "ICSOC 2024 - Program Committee"
+  date_start = "2024-12-03"
+  
+[[item]]
+  organization = "13th technical track on Software Architecture: Theory, Technology, and Applications"
+  organization_url = "https://satta.polimi.it/2025/"
+  title = "SA-TTA 2025 - Program Committee"
+  date_start = "2025-09-20"
+  
+[[item]]
   organization = "International Conference on Evaluation and Assessment in Software Engineering (EASE 2024)"
   organization_url = "https://conf.researchr.org/home/ease-2024"
   title = "EASE 2024 - Program Committee"

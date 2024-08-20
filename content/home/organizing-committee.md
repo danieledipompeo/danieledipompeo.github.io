@@ -55,9 +55,9 @@ date_format = "Jan 2006"
   date_start = "2023-09-19"
 
 [[item]]
-  organization = "Chair"
-  organization_url = "https://icpe2023.spec.org/organization/organizing-committee"
-  title = "Poster and Demos Track (ICPE 2023)"
+  organization = "Poster and Demos Track Chair"
+  organization_url = "https://icpe2023.spec.org/organizing-committee"
+  title = "14th International conference on Performance Engineering -- Poster and Demos Track (ICPE 2023)"
   date_start = "2023-04-15"
 
 [[item]]
@@ -79,15 +79,15 @@ date_format = "Jan 2006"
   date_start = "2022-04-10"
 
 [[item]]
-  organization = "Chair"
+  organization = "Publications co-Chair"
   organization_url = "https://icpe2021.spec.org/organization/organizing-committee"
-  title = "Publication Chair (ICPE 2021)"
+  title = "12th International Conference on Performance Engineering (ICPE 2021)"
   date_start = "2021-04-19"
 
 [[item]]
-  organization = "Chair"
-  organization_url = "https://icpe2017.spec.org/organization/organizing-committee"
-  title = "Web Chair International conference on Software Performance (ICPE 2017)"
+  organization = "Web Chair"
+  organization_url = "https://icpe2017.spec.org/organizing-committee"
+  title = "8th International conference on Software Performance (ICPE 2017)"
   date_start = "2017-04-22"	
 
 +++
