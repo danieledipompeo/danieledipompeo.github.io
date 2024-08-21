@@ -20,7 +20,13 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "22nd International Conference on Service-Oriented Computing"
+  organization = "22nd IEEE International Conference on Software Architecture (ICSA 2025)"
+  organization_url = "https://conf.researchr.org/home/icsa-2025"
+  title = "ICSA 2025 - Program Committee"
+  date_start = "2025-03-31"
+  
+[[item]]
+  organization = "22nd International Conference on Service-Oriented Computing (ICSOC 2024)"
   organization_url = "https://icsoc2024.redcad.tn/"
   title = "ICSOC 2024 - Program Committee"
   date_start = "2024-12-03"
