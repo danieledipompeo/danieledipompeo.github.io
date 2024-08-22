@@ -20,9 +20,15 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  organization = "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)"
+  organization_url = "https://conf.researchr.org/track/saner-2025/saner-2025-short-papers-and-posters-track"
+  title = "SANER 2025 - Short Papers and Posters Track Committee"
+  date_start = "2025-03-31"
+  
+[[item]]
   organization = "22nd IEEE International Conference on Software Architecture (ICSA 2025)"
   organization_url = "https://conf.researchr.org/home/icsa-2025"
-  title = "ICSA 2025 - Program Committee"
+  title = "ICSA 2025 - Technical Track Committee"
   date_start = "2025-03-31"
   
 [[item]]
@@ -88,7 +94,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)"
   organization_url = "https://conf.researchr.org/track/saner-2024/saner-2024-short-papers-and-posters-track-"
-  title = "SANER 2024 -Short paper track Committee"
+  title = "SANER 2024 - Short paper track Committee"
   date_start = "2024-03-15"
 
 [[item]]
