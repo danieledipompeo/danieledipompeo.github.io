@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+    title = "Thesis supervisor - Simone Di Prospero"
+    organization = "University of L'Aquila"
+    date_start = "2025-03-18"
+    
+[[item]]
+    title = "Thesis supervisor - Alessandro Di Giacomo"
+    organization = "University of L'Aquila"
+    date_start = "2024-12-21"
+    
+[[item]]
     title = "Thesis co-supervisor - Giacomo Sfratato"
     organization = "University of L'Aquila"
     date_start = "2024-07-20"
@@ -31,7 +41,7 @@ date_format = "Jan 2006"
 [[item]]
     title = "Thesis co-supervisor - Agostino D'Agostino"
     organization = "University of L'Aquila"
-    date_start = "2024-10-18"
+    date_start = "2024-12-21"
 
 [[item]]
   title = "Thesis co-supervisor - Alessandro Sablone"

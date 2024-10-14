@@ -20,6 +20,12 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  organization = "4th International Workshop on Model-Driven Engineering for Software Architecture (MDE4SA 2025)"
+  organization_url = "https://mde4sa.github.io/"
+  title = "MDE4SA 2025 - Program Committee"
+  date_start = "2025-03-31"
+  
+[[item]]
   organization = "32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)"
   organization_url = "https://conf.researchr.org/track/saner-2025/saner-2025-short-papers-and-posters-track"
   title = "SANER 2025 - Short Papers and Posters Track Committee"

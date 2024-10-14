@@ -50,6 +50,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/danieledipompeo
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.uni-trier.de/pid/171/1962.html
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2041-7375
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
