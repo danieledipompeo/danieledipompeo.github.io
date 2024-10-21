@@ -20,6 +20,12 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  organization = "17th European Conference on Software Architecture (ECSA)"
+  organization_url = "https://conf.researchr.org/track/ecsa-2023/ecsa-2023-research-papers?"
+  title = "ECSA 2023 - Program Committee"
+  date_start = "2023-09-18"
+
+[[item]]
   organization = "4th International Workshop on Model-Driven Engineering for Software Architecture (MDE4SA 2025)"
   organization_url = "https://mde4sa.github.io/"
   title = "MDE4SA 2025 - Program Committee"
