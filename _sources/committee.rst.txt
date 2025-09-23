@@ -188,7 +188,7 @@ Program committees
 * | *Artifacts-track Committee - ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021)*
   | https://2021.esec-fse.org/committee/fse-2021-artifacts-program-committee
 
-*  Shadow Committee - International Conference on Mining Software Repositories (MSR 2021)*
+* | Shadow Committee - International Conference on Mining Software Repositories (MSR 2021)*
   | https://2021.msrconf.org/track/msr-2021-shadow-pc?
 
 * | *Program Committee - International Workshop on Modeling Language Engineering (MLE 2021)*
