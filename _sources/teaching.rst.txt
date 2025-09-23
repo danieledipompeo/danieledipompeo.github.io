@@ -26,12 +26,14 @@ Course Description
 This course provides comprehensive instruction in agile programming methodologies with a particular focus on:
 
 **Software Design Principles:**
+
 - Object-oriented design patterns
 - SOLID principles
 - Clean code practices
 - Architecture patterns
 
 **SCRUM Methodology:**
+
 - SCRUM framework and roles
 - Sprint planning and execution
 - Product backlog management
