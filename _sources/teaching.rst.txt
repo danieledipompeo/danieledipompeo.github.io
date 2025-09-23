@@ -58,12 +58,14 @@ Software Quality Engineering
 **Academic Years:** 2019-2023
 
 **Responsibilities:**
+
 - Design and development of laboratory exercises
 - Student guidance in performance modeling techniques
 - Curriculum development for model-driven engineering approaches
 - Assessment and evaluation of student projects
 
 **Key Areas Covered:**
+
 - UML modeling for performance analysis
 - Performance modeling using Queueing Networks (QNs)
 - Tool usage for performance evaluation (MARTE profiles)
@@ -78,10 +80,12 @@ Advanced Verification and Validation
 **Academic Years:** 2019-2023
 
 **Responsibilities:**
+
 - Laboratory supervision for validation techniques
 - Student mentoring in verification methodologies
 
 **Key Areas Covered:**
+
 - Model-based testing approaches
 - Co-simulation validation techniques
 - Performance and reliability validation
