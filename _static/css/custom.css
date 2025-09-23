@@ -9,3 +9,30 @@
   box-shadow: 0 2px 12px rgba(0,0,0,.15);
 }
 
+.wy-side-nav-search > a {
+	color: #404040 !important;  /* adjust text color */
+}
+
+/* Handle several dark-mode togglers */
+html.dark, html.dark-mode, html[data-theme="dark"] {
+  /* undo the global invert only for the RTD logo */
+  /* Option A: neutralize any inversion applied */
+  /* Keeps original colors */
+	.wy-side-nav-search > a {
+		color: #bfbfbf !important;  /* adjust text color */
+	}
+	.wy-side-nav-search {
+		background-color: #0d0d0d !important;
+	}
+		
+  img.logo { 
+  	filter: none !important; 
+	mix-blend-mode: normal !important; 
+	background: rgb(41, 128, 185) !important;  /* adjust background color */
+  }
+
+  /* If your dark-mode plugin inverts the whole page with CSS filters,
+     use this instead to "double invert" the logo back to normal: */
+  /* img.logo { filter: invert(1) hue-rotate(180deg) !important; } */
+}
+
