@@ -1,0 +1,349 @@
+.. _publication:
+
+=============
+Publications
+=============
+
+.. contents::
+   :depth: 1
+   :local:
+
+Journals
+========
+
+**2025**
+
+- | Vittorio Cortellessa, Jorge Andrés Díaz Pace, Daniele Di Pompeo, Sebastian Frank, Pooyan Jamshidi, Michele Tucci, André van Hoorn.
+  | **Introducing Interactions in Multi-Objective Optimization of Software Architectures**.
+  | *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 34(6), Article 181, 2025.
+  | DOI: `10.1145/3712185 <https://doi.org/10.1145/3712185>`_
+
+**2024**
+
+- | Romina Eramo, Michele Tucci, Daniele Di Pompeo, Vittorio Cortellessa, Antinisca Di Marco, Davide Taibi.
+  | **Architectural support for software performance in continuous software engineering: A systematic mapping study**.
+  | *Journal of Systems and Software*, 207, 111833, 2024.
+  | DOI: `10.1016/j.jss.2023.111833 <https://doi.org/10.1016/j.jss.2023.111833>`_
+
+**2023**
+
+- | Luca Traini, Vittorio Cortellessa, Daniele Di Pompeo, Michele Tucci. 
+  | **Towards effective assessment of steady state performance in Java software: are we there yet?** 
+  | *Empirical Software Engineering*, 28(1), Article 13, 2023. 
+  | DOI: `10.1007/s10664-022-10247-x <https://doi.org/10.1007/s10664-022-10247-x>`_
+
+- | Vittorio Cortellessa, Daniele Di Pompeo, Vincenzo Stoico, Michele Tucci. 
+  | **Many-objective optimization of non-functional attributes based on refactoring of software models**. 
+  | *Information and Software Technology*, 157, 107159, 2023. 
+  | DOI: `10.1016/j.infsof.2023.107159 <https://doi.org/10.1016/j.infsof.2023.107159>`_
+
+**2022**
+
+- | Luca Traini, Daniele Di Pompeo, Michele Tucci, Bin Lin, Simone Scalabrino, Gabriele Bavota, Michele Lanza, Rocco Oliveto, Vittorio Cortellessa.
+  | **How Software Refactoring Impacts Execution Time**.
+  | *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 31(2), Article 25, 2022.
+  | DOI: `10.1145/3485136 <https://doi.org/10.1145/3485136>`_
+
+- | Vittorio Cortellessa, Daniele Di Pompeo, Romina Eramo, Michele Tucci.
+  | **A model-driven approach for continuous performance engineering in microservice-based systems**.
+  | *Journal of Systems and Software*, 183, 111084, 2022.
+  | DOI: `10.1016/j.jss.2021.111084 <https://doi.org/10.1016/j.jss.2021.111084>`_
+
+- | Vittorio Cortellessa, Daniele Di Pompeo, Vincenzo Stoico, Michele Tucci.
+  | **Software Model Refactoring Driven by Performance Antipattern Detection**.
+  | *SIGMETRICS Performance Evaluation Review*, 49(4), 53–58, 2022.
+  | DOI: `10.1145/3543146.3543159 <https://doi.org/10.1145/3543146.3543159>`_
+
+**2021**
+
+- | Vittorio Cortellessa, Daniele Di Pompeo.
+  | **Analyzing the sensitivity of multi-objective software architecture refactoring to configuration characteristics**.
+  | *Information and Software Technology*, 135, 106568, 2021.
+  | DOI: `10.1016/j.infsof.2021.106568 <https://doi.org/10.1016/j.infsof.2021.106568>`_
+
+**2018**
+
+- | Davide Arcelli, Vittorio Cortellessa, Daniele Di Pompeo.
+  | **Performance-driven software model refactoring**.
+  | *Information and Software Technology*, 95, 366–397, 2018.
+  | DOI: `10.1016/j.infsof.2017.09.006 <https://doi.org/10.1016/j.infsof.2017.09.006>`_
+
+Conferences
+===========
+
+**2024**
+
+- | Daniele Di Pompeo, Michele Tucci.  
+  | **Harnessing Genetic Improvement for Sustainable Software Architectures**.  
+  | *21st IEEE International Conference on Software Architecture (ICSA)*, pp. 248–249, 2024.  
+  | DOI: `10.1109/ICSA-C63560.2024.00051 <https://doi.org/10.1109/ICSA-C63560.2024.00051>`_
+
+- | :fa:`thophy` Payel Patra, Andrea Bianchi, Daniele Di Pompeo, Antinisca Di Marco.  
+  | **Echocardiographic Epicardial Adipose Tissue Quantification: Challenges and Insights**.  
+  | *IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops)*, pp. 619–624, Biarritz, France, March 2024.  
+  | DOI: `10.1109/PerComWorkshops59983.2024.10502745 <https://doi.org/10.1109/PerComWorkshops59983.2024.10502745>`_
+
+- | Vittorio Cortellessa, Daniele Di Pompeo, Michele Tucci.  
+  | **Exploring Sustainable Alternatives for the Deployment of Microservices Architectures in the Cloud**.  
+  | *21st IEEE International Conference on Software Architecture (ICSA)*, pp. 34–45, 2024.  
+  | DOI: `10.1109/ICSA59870.2024.00012 <https://doi.org/10.1109/ICSA59870.2024.00012>`_
+
+**2023**
+
+- | :fa:`trophy` Daniele Di Pompeo, Michele Tucci.  
+  | **Multi-objective Software Architecture Refactoring driven by Quality Attributes**.  
+  | *20th International Conference on Software Architecture (ICSA) – Companion*, pp. 175–178, L’Aquila, Italy, March 2023.  
+  | DOI: `10.1109/ICSA-C57050.2023.00046 <https://doi.org/10.1109/ICSA-C57050.2023.00046>`_ 
+
+- | Daniele Di Pompeo, Michele Tucci.  
+  | **Quality Attributes Optimization of Software Architecture: Research Challenges and Directions**.  
+  | *20th International Conference on Software Architecture (ICSA) – Companion*, pp. 252–255, L’Aquila, Italy, March 2023.  
+  | DOI: `10.1109/ICSA-C57050.2023.00061 <https://doi.org/10.1109/ICSA-C57050.2023.00061>`_
+
+- | Francesco Basciani, Daniele Di Pompeo, Juri Di Rocco, Alfonso Pierantonio.  
+  | **A customizable approach to assess software quality through Multi-Criteria Decision Making**.  
+  | *20th International Conference on Software Architecture (ICSA) – Companion*, pp. 264–271, L’Aquila, Italy, March 2023.  
+  | DOI: `10.1109/ICSA-C57050.2023.00063 <https://doi.org/10.1109/ICSA-C57050.2023.00063>`_
+
+- | Francesco Basciani, Vittorio Cortellessa, Sergio Di Martino, Dario Di Nucci, Daniele Di Pompeo, Carmine Gravino, Luigi Libero Lucio Starace.  
+  | **ADAS Verification in Co-Simulation: Towards a Meta-Model for Defining Test Scenarios**.  
+  | *IEEE International Conference on Software Testing, Verification and Validation (ICST) – Workshops*, pp. 28–35, Dublin, Ireland, April 2023.  
+  | DOI: `10.1109/ICSTW58534.2023.00018 <https://doi.org/10.1109/ICSTW58534.2023.00018>`_
+
+- | Vincenzo Stoico, Vittorio Cortellessa, Ivano Malavolta, Daniele Di Pompeo, Luigi Pomante, Patricia Lago.  
+  | **An Approach Using Performance Models for Supporting Energy Analysis of Software Systems**.  
+  | *19th European Workshop on Performance Engineering (EPEW) & 27th International Conference on Analytical and Stochastic Modelling Techniques and Applications (ASMTA)*, LNCS 14231, pp. 249–263, Springer, 2023.  
+  | DOI: `10.1007/978-3-031-43185-2_17 <https://doi.org/10.1007/978-3-031-43185-2_17>`_
+
+- | :fa:`trophy` Vittorio Cortellessa, Daniele Di Pompeo, Michele Tucci.  
+  | **Performance of Genetic Algorithms in the Context of Software Model Refactoring**.  
+  | *19th European Workshop on Performance Engineering (EPEW) & 27th ASMTA*, LNCS 14231, pp. 234–248, Springer, 2023.  
+  | DOI: `10.1007/978-3-031-43185-2_16 <https://doi.org/10.1007/978-3-031-43185-2_16>`_
+
+- | Vittorio Cortellessa, J. Andrés Díaz-Pace, Daniele Di Pompeo, Michele Tucci.  
+  | **Towards Assessing Spread in Sets of Software Architecture Designs**.  
+  | *17th European Conference on Software Architecture (ECSA)*, LNCS 14212, pp. 133–140, Springer, Istanbul, Turkey, Sept 2023.  
+  | DOI: `10.1007/978-3-031-42592-9_9 <https://doi.org/10.1007/978-3-031-42592-9_9>`_
+
+**2022**
+
+- | Daniele Di Pompeo, Michele Tucci.  
+  | **Search Budget in Multi-Objective Refactoring Optimization: a Model-Based Empirical Study**.  
+  | *48th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)*, pp. 406–413, Gran Canaria, Spain, 2022.  
+  | DOI: `10.1109/SEAA56994.2022.00070 <https://doi.org/10.1109/SEAA56994.2022.00070>`_
+
+**2021**
+
+- | Francesco Basciani, Daniele Di Pompeo, Davide Di Ruscio, Ludovico Iovino, Alfonso Pierantonio.  
+  | **Integrating semantic reasoning in information loss-based transformation chain rankers**.  
+  | *36th ACM/SIGAPP Symposium on Applied Computing (SAC)*, pp. 1494–1503, Korea, March 2021.  
+  | DOI: `10.1145/3412841.3442024 <https://doi.org/10.1145/3412841.3442024>`_
+
+- | Vittorio Cortellessa, Daniele Di Pompeo, Vincenzo Stoico, Michele Tucci.  
+  | **On the impact of Performance Antipatterns in multi-objective software model refactoring optimization**.  
+  | *47th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)*, pp. 224–233, Palermo, Italy, 2021.  
+  | DOI: `10.1109/SEAA53835.2021.00036 <https://doi.org/10.1109/SEAA53835.2021.00036>`_
+
+**2019**
+
+- | Daniele Di Pompeo, Michele Tucci, Alessandro Celi, Romina Eramo.  
+  | **A Microservice Reference Case Study for Design-Runtime Interaction in MDE**.  
+  | *STAF 2019 Co-Located Events Proceedings*, CEUR-WS, vol. 2405, pp. 23–32, Eindhoven, Netherlands, July 2019.  
+  | URL: `https://ceur-ws.org/Vol-2405/06_paper.pdf <https://ceur-ws.org/Vol-2405/06_paper.pdf>`_
+
+- | Davide Arcelli, Vittorio Cortellessa, Daniele Di Pompeo.  
+  | **Automating Performance Antipattern Detection and Software Refactoring in UML Models**.  
+  | *26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)*, pp. 639–643, Hangzhou, China, Feb 2019.  
+  | DOI: `10.1109/SANER.2019.8667967 <https://doi.org/10.1109/SANER.2019.8667967>`_
+
+- | Davide Arcelli, Vittorio Cortellessa, Daniele Di Pompeo, Romina Eramo, Michele Tucci.  
+  | **Exploiting Architecture/Runtime Model-Driven Traceability for Performance Improvement**.  
+  | *IEEE International Conference on Software Architecture (ICSA)*, pp. 81–90, Hamburg, Germany, March 2019.  
+  | DOI: `10.1109/ICSA.2019.00017 <https://doi.org/10.1109/ICSA.2019.00017>`_
+
+**2018**
+
+- | Davide Arcelli, Vittorio Cortellessa, Daniele Di Pompeo.  
+  | **Performance-Driven Software Architecture Refactoring**.  
+  | *IEEE International Conference on Software Architecture Companion (ICSA-C)*, pp. 2–3, Seattle, USA, 2018.  
+  | DOI: `10.1109/ICSA-C.2018.00006 <https://doi.org/10.1109/ICSA-C.2018.00006>`_
+
+- | Davide Arcelli, Vittorio Cortellessa, Daniele Di Pompeo.  
+  | **A metamodel for the specification and verification of model refactoring actions**.  
+  | *2nd International Workshop on Refactoring (IWoR@ASE)*, pp. 14–21, Montpellier, France, 2018.  
+  | DOI: `10.1145/3242163.3242167 <https://doi.org/10.1145/3242163.3242167>`_
+
+- | Davide Arcelli, Vittorio Cortellessa, Mattia D’Emidio, Daniele Di Pompeo.  
+  | **EASIER: An Evolutionary Approach for Multi-objective Software Architecture Refactoring**.  
+  | *IEEE International Conference on Software Architecture (ICSA)*, pp. 105–114, Seattle, USA, 2018.  
+  | DOI: `10.1109/ICSA.2018.00020 <https://doi.org/10.1109/ICSA.2018.00020>`_
+
+- | Vittorio Cortellessa, Antinisca Di Marco, Daniele Di Pompeo, Francesco Gallo, Stefano Pace, Luigi Pomante, Walter Tiberti.  
+  | **Energy-Driven Reconfiguration of Applications for Wireless Sensor Networks**.  
+  | *ACM/SPEC International Conference on Performance Engineering (ICPE) – Companion*, pp. 79–84, Berlin, Germany, 2018.  
+  | DOI: `10.1145/3185768.3186312 <https://doi.org/10.1145/3185768.3186312>`_
+
+**2017**
+
+- | Daniele Di Pompeo, Emilio Incerto, Vittoriano Muttillo, Luigi Pomante, Giacomo Valente.  
+  | **An Efficient Performance-Driven Approach for HW/SW Co-Design**.  
+  | *8th ACM/SPEC International Conference on Performance Engineering (ICPE)*, pp. 323–326, L’Aquila, Italy, 2017.  
+  | DOI: `10.1145/3030207.3030239 <https://doi.org/10.1145/3030207.3030239>`_
+
+- | Davide Arcelli, Daniele Di Pompeo.  
+  | **Applying Design Patterns to Remove Software Performance Antipatterns: A Preliminary Approach**.  
+  | *8th International Conference on Ambient Systems, Networks and Technologies (ANT) / 7th International Conference on Sustainable Energy Information Technology (SEIT)*, Procedia CS 109, pp. 521–528, Madeira, Portugal, 2017.  
+  | DOI: `10.1016/j.procs.2017.05.330 <https://doi.org/10.1016/j.procs.2017.05.330>`_
+
+**2016**
+
+- | Davide Arcelli, Vittorio Cortellessa, Daniele Di Pompeo.  
+  | **Automated translation among EPSILON languages for performance-driven UML software model refactoring**.  
+  | *1st International Workshop on Software Refactoring (IWoR@ASE)*, pp. 25–32, Singapore, 2016.  
+  | DOI: `10.1145/2975945.2975951 <https://doi.org/10.1145/2975945.2975951>`_
+
+**2015**
+
+- | Davide Arcelli, Vittorio Cortellessa, Daniele Di Pompeo.  
+  | **Towards a Unifying Approach for Performance-Driven Software Model Refactoring**.  
+  | *GEMOC+MPM@MoDELS Workshops*, CEUR-WS, vol. 1511, pp. 42–51, Ottawa, Canada, 2015.  
+  | URL: `https://ceur-ws.org/Vol-1511/paper-MPM03.pdf <https://ceur-ws.org/Vol-1511/paper-MPM03.pdf>`_
+
+Editorials
+==========
+
+**2025**
+
+- | Josu Doncel, Anne Remke, Daniele Di Pompeo.  
+  | **Computer Performance Engineering – 20th European Workshop (EPEW)**.  
+  | *Lecture Notes in Computer Science (LNCS)*, vol. 15454, Springer, 2025.  
+  | DOI: `10.1007/978-3-031-80932-3 <https://doi.org/10.1007/978-3-031-80932-3>`_
+
+**2024**
+
+- | Apostolos Ampatzoglou, Jennifer Pérez, Barbora Buhnova, Valentina Lenarduzzi, Colin C. Venters, Uwe Zdun, Khalil Drira, Luciana Rebelo, Daniele Di Pompeo, Michele Tucci, Elisa Yumi Nakagawa, Elena Navarro.  
+  | **Software Architecture – ECSA 2024 Tracks and Workshops**.  
+  | *Lecture Notes in Computer Science (LNCS)*, vol. 14937, Springer, Luxembourg, September 2024.  
+  | DOI: `10.1007/978-3-031-71246-3 <https://doi.org/10.1007/978-3-031-71246-3>`_
+
+**2023**
+
+- | Daniele Di Pompeo, Michele Tucci.  
+  | **8th Workshop on Challenges in Performance Methods for Software Development: WOSP-C'23 Chairs' Welcome**.  
+  | *Companion of the ACM/SPEC International Conference on Performance Engineering (ICPE)*, Coimbra, Portugal, April 2023, p. 369.  
+  | DOI: `10.1145/3578245.3584847 <https://doi.org/10.1145/3578245.3584847>`_
+
+**2021**
+
+- | Johann Bourcier, Zhen Ming (Jack) Jiang, Cor-Paul Bezemer, Vittorio Cortellessa, Daniele Di Pompeo, Ana Lucia Varbanescu.  
+  | **ICPE '21: ACM/SPEC International Conference on Performance Engineering**.  
+  | *Proceedings of ICPE 2021*, ACM, Virtual Event, France, April 19–21, 2021.  
+  | DOI: `10.1145/3427921 <https://doi.org/10.1145/3427921>`_
+
+- | Johann Bourcier, Zhen Ming (Jack) Jiang, Cor-Paul Bezemer, Vittorio Cortellessa, Daniele Di Pompeo, Ana Lucia Varbanescu.  
+  | **ICPE '21: ACM/SPEC International Conference on Performance Engineering – Companion Volume**.  
+  | *Companion Proceedings of ICPE 2021*, ACM, Virtual Event, France, April 19–21, 2021.  
+  | DOI: `10.1145/3447545 <https://doi.org/10.1145/3447545>`_
+
+Others
+======
+
+**2025**
+
+- | Denivan Campos, Luana Almeida Martins, Emanuela Guglielmi, Michele Tucci, Daniele Di Pompeo, Simone Scalabrino, Vittorio Cortellessa, Dario Di Nucci, Rocco Oliveto.  
+  | **Identifying and Replicating Code Patterns Driving Performance Regressions in Software Systems**.  
+  | *arXiv preprint*, arXiv:2504.05851, 2025.  
+  | DOI: `10.48550/arXiv.2504.05851 <https://doi.org/10.48550/arXiv.2504.05851>`_
+
+- | Martin Beseda, Vittorio Cortellessa, Daniele Di Pompeo, Luca Traini, Michele Tucci.  
+  | **A Kernel-Based Approach for Accurate Steady-State Detection in Performance Time Series**.  
+  | *arXiv preprint*, arXiv:2506.04204, 2025.  
+  | DOI: `10.48550/arXiv.2506.04204 <https://doi.org/10.48550/arXiv.2506.04204>`_
+
+- | Payel Patra, Daniele Di Pompeo, Antinisca Di Marco.  
+  | **An Evaluation Framework for the FAIR Assessment Tools in Open Science**.  
+  | *arXiv preprint*, arXiv:2503.15929, 2025.  
+  | DOI: `10.48550/arXiv.2503.15929 <https://doi.org/10.48550/arXiv.2503.15929>`_
+
+**2024**
+
+- | Vittorio Cortellessa, Daniele Di Pompeo, Michele Tucci.  
+  | **Exploring Sustainable Alternatives for the Deployment of Microservices Architectures in the Cloud**.  
+  | *arXiv preprint*, arXiv:2402.11238, 2024.  
+  | DOI: `10.48550/arXiv.2402.11238 <https://doi.org/10.48550/arXiv.2402.11238>`_
+
+- | Vittorio Cortellessa, J. Andrés Díaz-Pace, Daniele Di Pompeo, Michele Tucci.  
+  | **Towards Assessing Spread in Sets of Software Architecture Designs**.  
+  | *arXiv preprint*, arXiv:2402.19171, 2024.  
+  | DOI: `10.48550/arXiv.2402.19171 <https://doi.org/10.48550/arXiv.2402.19171>`_
+
+**2023**
+
+- | Daniele Di Pompeo, Michele Tucci.  
+  | **Multi-objective Software Architecture Refactoring driven by Quality Attributes**.  
+  | *arXiv preprint*, arXiv:2301.07500, 2023.  
+  | DOI: `10.48550/arXiv.2301.07500 <https://doi.org/10.48550/arXiv.2301.07500>`_
+
+- | Daniele Di Pompeo, Michele Tucci.  
+  | **Quality Attributes Optimization of Software Architecture: Research Challenges and Directions**.  
+  | *arXiv preprint*, arXiv:2301.07516, 2023.  
+  | DOI: `10.48550/arXiv.2301.07516 <https://doi.org/10.48550/arXiv.2301.07516>`_
+
+- | Francesco Basciani, Daniele Di Pompeo, Juri Di Rocco, Alfonso Pierantonio.  
+  | **A customizable approach to assess software quality through Multi-Criteria Decision Making**.  
+  | *arXiv preprint*, arXiv:2301.12202, 2023.  
+  | DOI: `10.48550/arXiv.2301.12202 <https://doi.org/10.48550/arXiv.2301.12202>`_
+
+- | J. Andrés Díaz-Pace, Daniele Di Pompeo, Michele Tucci.  
+  | **Best Performance and Reliability for Your Time: Budget-Aware Search-Based Optimization of Software Model Refactoring**.  
+  | *arXiv preprint*, arXiv:2308.15179, 2023.  
+  | DOI: `10.48550/arXiv.2308.15179 <https://doi.org/10.48550/arXiv.2308.15179>`_
+
+- | Romina Eramo, Michele Tucci, Daniele Di Pompeo, Vittorio Cortellessa, Antinisca Di Marco, Davide Taibi.  
+  | **Architectural Support for Software Performance in Continuous Software Engineering: A Systematic Mapping Study**.  
+  | *arXiv preprint*, arXiv:2304.02489, 2023.  
+  | DOI: `10.48550/arXiv.2304.02489 <https://doi.org/10.48550/arXiv.2304.02489>`_
+
+- | Vincenzo Stoico, Vittorio Cortellessa, Ivano Malavolta, Daniele Di Pompeo, Luigi Pomante, Patricia Lago.  
+  | **An Approach Using Performance Models for Supporting Energy Analysis of Software Systems (Version 2)**.  
+  | *Zenodo*, 2023.  
+  | DOI: `10.5281/zenodo.7877782 <https://doi.org/10.5281/zenodo.7877782>`_
+
+- | Vittorio Cortellessa, Daniele Di Pompeo, Michele Tucci.  
+  | **Performance of Genetic Algorithms in the Context of Software Model Refactoring**.  
+  | *arXiv preprint*, arXiv:2308.13875, 2023.  
+  | DOI: `10.48550/arXiv.2308.13875 <https://doi.org/10.48550/arXiv.2308.13875>`_
+
+- | Vittorio Cortellessa, Daniele Di Pompeo, Romina Eramo, Michele Tucci.  
+  | **A Model-driven Approach for Continuous Performance Engineering in Microservice-based Systems**.  
+  | *arXiv preprint*, arXiv:2302.09999, 2023.  
+  | DOI: `10.48550/arXiv.2302.09999 <https://doi.org/10.48550/arXiv.2302.09999>`_
+
+- | Vittorio Cortellessa, Daniele Di Pompeo, Vincenzo Stoico, Michele Tucci.  
+  | **Many-Objective Optimization of Non-Functional Attributes based on Refactoring of Software Models**.  
+  | *arXiv preprint*, arXiv:2301.09531, 2023.  
+  | DOI: `10.48550/arXiv.2301.09531 <https://doi.org/10.48550/arXiv.2301.09531>`_
+
+- | Vittorio Cortellessa, J. Andrés Díaz-Pace, Daniele Di Pompeo, Sebastian Frank, Pooyan Jamshidi, Michele Tucci, André van Hoorn.  
+  | **Introducing Interactions in Multi-Objective Optimization of Software Architectures**.  
+  | *arXiv preprint*, arXiv:2308.15084, 2023.  
+  | DOI: `10.48550/arXiv.2308.15084 <https://doi.org/10.48550/arXiv.2308.15084>`_
+
+**2022**
+
+- | Daniele Di Pompeo, Michele Tucci.  
+  | **Search Budget in Multi-Objective Refactoring Optimization: a Model-Based Empirical Study**.  
+  | *arXiv preprint*, arXiv:2212.08385, 2022.  
+  | DOI: `10.48550/arXiv.2212.08385 <https://doi.org/10.48550/arXiv.2212.08385>`_
+
+- | Luca Traini, Vittorio Cortellessa, Daniele Di Pompeo, Michele Tucci.  
+  | **Towards Effective Assessment of Steady State Performance in Java Software: Are We There Yet?**.  
+  | *arXiv preprint*, arXiv:2209.15369, 2022.  
+  | DOI: `10.48550/arXiv.2209.15369 <https://doi.org/10.48550/arXiv.2209.15369>`_
+
+**2021**
+
+- | Vittorio Cortellessa, Daniele Di Pompeo, Vincenzo Stoico, Michele Tucci.  
+  | **On the Impact of Performance Antipatterns in Multi-Objective Software Model Refactoring Optimization**.  
+  | *arXiv preprint*, arXiv:2107.06127, 2021.  
+  | URL: `https://arxiv.org/abs/2107.06127 <https://arxiv.org/abs/2107.06127>`_

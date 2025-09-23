@@ -1,0 +1,13 @@
+.. _blog:
+
+Blog
+====
+
+
+Welcome to my blog! Here, I share insights, updates, and thoughts on software architecture, performance engineering, and related topics. Stay tuned for regular posts and feel free to engage with the content.
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Blog Posts
+
+   posts/genetic_improvement

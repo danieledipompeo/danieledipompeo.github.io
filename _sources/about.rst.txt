@@ -1,0 +1,168 @@
+.. _about:
+
+========
+About Me
+========
+
+Welcome to my academic and research profile. I am a researcher and educator at the University of L'Aquila, Department of Engineering, Information Science, and Mathematics, specializing in **Software Performance Engineering** and **Search-Based Software Engineering**. My work focuses on developing innovative solutions for software quality assessment, performance optimization, and sustainable software architectures.
+
+With over a decade of experience in software engineering research, I lead and participate in national and European research projects, supervise PhD students, and teach advanced programming methodologies. My research bridges the gap between theoretical computer science and practical software engineering challenges, particularly in emerging domains such as autonomous vehicles, microservices architectures, and energy-aware computing.
+
+Current Research Focus
+======================
+
+My research centers on addressing the complex challenges of modern software systems, where multiple quality attributes must be optimized simultaneously. I am particularly interested in:
+
+**Multi-Objective Software Architecture Optimization**
+
+I develop and apply evolutionary algorithms, particularly NSGA-II, to automatically explore vast architectural solution spaces. My work demonstrates how to find optimal design alternatives that balance performance, reliability, sustainability, and architectural complexity. This research has shown improvements up to 42% in performance and 32% in reliability in generated model alternatives.
+
+**Performance Engineering and Energy Awareness**
+
+I investigate the relationship between software maintenance activities and their impact on system performance and energy consumption. My current work includes developing frameworks for automated performance testing in CI/CD pipelines and creating new catalogs of energy-related code smells. This research is particularly relevant in the context of sustainable computing and green software engineering.
+
+**Advanced Driver Assistance Systems (ADAS)**
+
+I lead research in model-based generation and optimization of ADAS testing scenarios in co-simulation environments. This work addresses the critical need for comprehensive validation methodologies in autonomous and connected vehicle systems, focusing on safety-critical requirements and system-of-systems integration.
+
+
+Professional Experience
+=======================
+
+Academic Positions
+------------------
+
+**Researcher and Educator** (2018 – present)
+University of L'Aquila, Department of Engineering, Information Science, and Mathematics
+
+- PhD supervision and post-graduate research coordination
+- Course instruction in Agile Programming Methodologies
+- Expert consultant for Software Quality Engineering and Advanced Verification and Validation
+
+Research Leadership
+-------------------
+
+**Current Project Leadership:**
+
+- **MEDITATE (2024-2026):** Task Leader for ADAS testing meta-model definition and co-simulation platform interoperability
+- **RECHARGE (2023-2025):** Co-Supervisor of PhD student and research fellow activities in performance regression analysis
+- **SoBigData.it (2020-2023):** Task Leader for research contribution to Virtual Laboratories
+
+**Completed Project Contributions:**
+
+- **MegaM@Rt2 (2017-2020):** Task Leader for unified metamodel development and tool integration
+- **EMERGE-Navigation (2019-2023):** Co-responsible for non-functional requirements definition and validation
+
+Key Research Contributions
+==========================
+
+Methodological Innovations
+--------------------------
+
+**Human-in-the-Loop Optimization**
+
+I have pioneered preference-based interactive approaches to multi-objective software architecture optimization. This hybrid methodology allows software architects to guide the search process, leading to improved architectural quality within focused regions of the solution space while reducing computational time.
+
+**Sustainability Integration**
+
+My research extends traditional performance-reliability trade-offs to include environmental impact, particularly focusing on power consumption in cloud deployments of microservices. This work reveals that sustainable solutions may require trading off performance but not necessarily cost under current cloud offerings.
+
+**Automated Performance Testing**
+
+I develop frameworks that leverage static analysis and search-based algorithms for automating performance testing in CI/CD pipelines, addressing the critical need for continuous performance validation in modern software development practices.
+
+Technical Expertise
+===================
+
+Research Methodologies
+----------------------
+
+**Static and Dynamic Analysis**
+- Code quality assessment and energy consumption analysis
+- Performance profiling and runtime monitoring  
+- Automated code smell detection and classification
+
+**Optimization and Machine Learning**
+- Genetic algorithms and multi-objective optimization (NSGA-II, PESA2)
+- Performance anomaly detection and predictive modeling
+- Search-based test case generation and architecture exploration
+
+**Model-Driven Engineering**
+- UML modeling for non-functional properties
+- Model transformation and code generation
+- Runtime model validation and traceability
+
+**Simulation and Validation**
+- Co-simulation platforms for ADAS and system-of-systems
+- Performance modeling (LQN, Petri nets)
+- Automated test scenario generation and optimization
+
+Tool Development
+----------------
+
+**PADRE Refactoring Tool**
+Developed and integrated a refactoring tool guided by non-functional properties into the MegaM@Rt2 project toolbox, enabling automated software architecture improvements.
+
+**Performance Analysis Frameworks**
+Created comprehensive frameworks utilizing tools like RAPL and Perf for energy consumption analysis and performance characterization in open-source projects.
+
+**Co-simulation Integration**
+Developed methodologies for ADAS validation using advanced co-simulation platforms, focusing on interoperability and automated test scenario generation.
+
+Academic Impact
+===============
+
+Student Supervision
+-------------------
+
+I have supervised over **20 thesis projects** spanning topics from performance analysis of microservices architectures to energy consumption in functional programming languages. My supervision covers:
+
+- **PhD Supervision:** Currently supervising doctoral research on software refactoring impact on performance and energy consumption
+- **Master's Thesis:** Supervision of advanced topics in performance engineering, ADAS systems, and software architecture optimization  
+- **Bachelor's Thesis:** Guidance on foundational software engineering and performance analysis topics
+
+Teaching Contributions
+----------------------
+
+**Agile Programming Methodologies (2021-present)**
+- 48 hours annual instruction in Software Design and SCRUM methodologies
+- Focus on practical application of agile principles in software development
+- Integration of performance considerations in agile development practices
+
+**Subject Matter Expertise (2019-2023)**
+- Software Quality Engineering: Model-Driven Engineering and Performance Modeling laboratories
+- Advanced Verification and Validation: Testing methodologies and validation techniques
+
+International Collaboration
+===========================
+
+My research involves active collaboration with international institutions and industry partners:
+
+**Academic Partnerships:**
+- University College Dublin: Co-supervision arrangement with Prof. Liliana Pasquale
+- Multiple European institutions through ECSEL and Horizon 2020 projects
+
+**Industry Collaboration:**
+- Moviri S.p.A. (Milan): Collaboration on system verification and performance analysis
+- Various open-source communities for performance benchmarking and analysis
+
+Looking Forward
+===============
+
+As software systems continue to evolve toward greater complexity, autonomy, and environmental consciousness, my research agenda focuses on:
+
+**Next-Generation ADAS Systems**
+Developing comprehensive validation frameworks for autonomous and connected vehicles, with emphasis on safety-critical requirements and ethical AI considerations.
+
+**Sustainable Software Engineering**
+Advancing methodologies for energy-aware software design and operation, contributing to global sustainability goals through more efficient software systems.
+
+**AI-Enhanced Software Engineering**
+Integrating machine learning and artificial intelligence techniques with traditional software engineering practices to create more intelligent, adaptive software systems.
+
+**Human-AI Collaboration**
+Exploring how human expertise and AI capabilities can be optimally combined in software engineering tasks, particularly in complex decision-making scenarios.
+
+---
+
+*For more detailed information about my research projects, publications, and teaching activities, please explore the other sections of this site or contact me directly.*

@@ -1,0 +1,171 @@
+.. _supervision:
+
+PhD Supervision
+===============
+
+Current PhD Students
+--------------------
+
+Muhammad Waheed Kahn
+~~~~~~~~~~~~~~~~~~~~
+
+* **Research Topic:** Investigating the Impact of Software Refactoring on Performance and Energy Consumption
+
+* **Institution:** University of L'Aquila – Department of Engineering, Information Science, and Mathematics
+
+* **Role:** Principal Scientific Supervisor
+
+* **Period:** December 1, 2023 – present
+
+* **Funding:** Ministerial Decree No. 118 of 02-03-2023
+
+* **Research Focus:**
+
+  The research investigates the relationship between software maintenance activities and their impact on system performance and energy consumption. Key research areas include:
+
+  - Identification of software engineering activities with the highest impact on energy consumption
+  - Development of new catalog of energy-related code smells
+  - Performance degradation analysis in complex software systems
+  - Energy-aware software refactoring techniques
+
+* **International Collaboration:**
+
+  6-month research stay at University College Dublin under co-supervision of Prof. Liliana Pasquale
+
+* **Official Documentation:** https://www.univaq.it/section.php?id=2207
+
+Idrees Ahmad
+~~~~~~~~~~~~
+
+* **PhD Cycle:** XXXIX
+
+* **Institution:** University of L'Aquila – Department of Engineering, Information Science, and Mathematics
+
+* **Role:** Co-Supervisor
+
+* **Period:** May 1, 2024 – present
+
+* **Funding:** Ministerial Decree No. 118 of 02-03-2023
+
+* **Research Focus:** Performance regression analysis and automated testing frameworks
+
+Payel Patra
+~~~~~~~~~~~
+
+* **PhD Cycle:** XXXVIII
+
+* **Institution:** University of L'Aquila – Department of Engineering, Information Science, and Mathematics
+
+* **Role:** Co-Supervisor
+
+* **Period:** November 1, 2022 – present
+
+* **Research Focus:** Multi-objective optimization for software architectures
+
+Post-doctoral Research Supervision
+==================================
+
+Territori Aperti Research Grant (2024)
+--------------------------------------
+
+**Title:** Personalization and Management of Research Technology Infrastructure for Territori Aperti
+
+**Role:** Co-Scientific Supervisor
+
+**Period:** July 1, 2024 – December 31, 2024
+
+**Funding:** University Project TERRITORI APERTI, supported by Fondo Territori Lavoro e Conoscenza (CGIL, CISL, UIL)
+
+**Description:**
+
+Interdisciplinary research initiative focusing on prevention and management of natural disasters, and reconstruction processes in affected areas. The project combines research, documentation, and training activities to develop comprehensive disaster management methodologies.
+
+Master's and Bachelor's Thesis Supervision
+==========================================
+
+2025
+----
+
+* **Manuel Di Cresce** - University of L'Aquila (TBC)
+  
+  *Title:* Architectural Refactoring and Front-end Redesign of a Legacy Performance Modeling Software
+
+* **Federico Capricci** - University of L'Aquila (October 2025)
+  
+  *Title:* Analysis of Refactoring Impact on Energy Consumption in Open-Source Projects
+
+* **Simone Di Prospero** - University of L'Aquila (March 2025)
+  
+  *Title:* Historical Analysis of Energy Consumption in Open-Source Software Projects Using Perf and RAPL
+
+2024
+----
+
+* **Alessandro Di Giacomo** - University of L'Aquila (December 2024)
+  
+  *Title:* Evaluation of Response Times and Resource Utilization of Java Web Frameworks
+
+* **Agostino D'Agostino** - University of L'Aquila (December 2024)
+  
+  *Title:* Exploring the Impact of Configuration Parameters on MongoDB Performance
+
+* **Giacomo Sfratato** - University of L'Aquila (July 2024)
+  
+  *Title:* Performance Analysis of Recent Evolution in Thread-based Parallelism in Python
+
+* **Vincenzo Marono** - University of L'Aquila (March 2024)
+  
+  *Title:* Comparative Performance Study of JavaScript Frameworks in Interactive Live Streaming Context
+
+* **Muhammad Usama Bin Abad** - University of L'Aquila (2024)
+  
+  *Title:* Automated Classification of Performance Issues in Open-Source Repositories
+
+* **Michele Intrevado** - University of L'Aquila (2024)
+  
+  *Title:* Microbenchmarking in Functional Programming with Elixir
+
+2022
+----
+
+* **Alessandro Sablone** - University of L'Aquila (October 2022)
+  
+  *Title:* Design and Implementation of a Library for Java Project Refactoring
+
+* **Michele Intrevado** - University of L'Aquila (March 2022)
+  
+  *Title:* Extension of Java Unit Tests with Performance Measurements
+
+2021
+----
+
+* **Enrico Simone Adamelli** - University of L'Aquila (December 2021)
+  
+  *Title:* Study of a Technique for Reporting Performance Analysis Results on Source Code
+
+* **Vincenzo De Petris** - University of L'Aquila (March 2021)
+  
+  *Title:* Performance Benchmarking of a Java Microservices-based Application
+
+2020
+----
+
+* **Natan Cieplinski** - University of L'Aquila (October 2020)
+  
+  *Title:* Performance Analysis of J2EE Applications Using SPEC Benchmarks
+
+2018
+----
+
+* **Marisa Fallone** - University of L'Aquila (November 2018)
+  
+  *Title:* Design, Development and Analysis of a Web Application Based on Microservices Architecture
+
+* **Stefano Di Francesco** - University of L'Aquila (November 2018)
+  
+  *Title:* Reverse Engineering of a Web Application in UML+MARTE and Model Integration with Performance Monitoring Results
+
+
+
+
+

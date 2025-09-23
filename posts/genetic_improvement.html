@@ -1,0 +1,280 @@
+
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="../">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Beyond Pure Performance: Harnessing Multi-Objective Optimization for Sustainable and Reliable Software Architectures &mdash; Daniele Di Pompeo, PhD  documentation</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="../_static/css/theme.css?v=e59714d7" />
+      <link rel="stylesheet" type="text/css" href="../_static/css/custom.css?v=cff92852" />
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/dark_mode_css/general.css?v=c0a7eb24" />
+      <link rel="stylesheet" type="text/css" href="../_static/dark_mode_css/dark.css?v=70edf1c7" />
+
+  
+      <script src="../_static/jquery.js?v=5d32c60e"></script>
+      <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="../_static/documentation_options.js?v=5929fcd5"></script>
+      <script src="../_static/doctools.js?v=9bcbadda"></script>
+      <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      <script src="../_static/dark_mode_js/default_dark.js?v=fd565c74"></script>
+      <script src="../_static/dark_mode_js/theme_switcher.js?v=358d3910"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="author" title="About these documents" href="../about.html" />
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="About Me" href="../about.html" />
+    <link rel="prev" title="Blog" href="../blog.html" />
+   
+  <link rel="stylesheet" href="../_static/css/custom.css">
+
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search"  style="background: white" >
+
+  <a href="../index.html" class="icon icon-home">
+    Daniele Di Pompeo, PhD
+	  <img src="../_static/profile.jpg" class="logo" alt="Logo">
+  </a>
+
+  <div class="social-icons">
+    <a href="https://github.com/danieledipompeo" target="_blank" aria-label="GitHub">
+      <i class="fa fa-github"></i>
+    </a>
+    <a href="https://twitter.com/danieledipompeo" target="_blank" aria-label="Twitter">
+      <i class="fa fa-twitter"></i>
+    </a>
+    <a href="https://www.linkedin.com/in/daniele-di-pompeo-749915226" target="_blank" aria-label="LinkedIn">
+      <i class="fa fa-linkedin"></i>
+    </a>
+    <a href="https://scholar.google.com/citations?user=E2dr5vIAAAAJ" aria-label="Google Scholar">
+      <i class="ai ai-google-scholar"></i>
+    </a>
+    <a href="https://dblp.org/pid/171/1962.html" aria-label="DBLP">
+      <i class="ai ai-dblp big-icon"></i>
+    </a>
+    <a href="https://orcid.org/0000-0003-2041-7375" aria-label="ORCID">
+      <i class="ai ai-orcid"></i>
+    </a>
+    <a href="mailto:daniele.dipompeo@univaq.it" aria-label="Email">
+      <i class="fa fa-envelope"></i>
+    </a>
+  </div>
+
+
+
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Website contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../publication.html">Publications</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../committee.html">Organizing &amp; Conference Committees</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../speaker.html">Talks / Presentations</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../teaching.html">Teaching Activities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../experience.html">Professional Experience</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../projects.html">Research Projects</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../blog.html">Blog</a><ul class="current">
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Beyond Pure Performance: Harnessing Multi-Objective Optimization for Sustainable and Reliable Software Architectures</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#the-four-dimensions-of-optimization">The Four Dimensions of Optimization</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#integrating-sustainability-a-new-trade-off">Integrating Sustainability: A New Trade-off</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#the-role-of-automated-refactoring">The Role of Automated Refactoring</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#leveraging-human-interaction-human-in-the-loop">Leveraging Human Interaction (Human-in-the-Loop)</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#conclusion-and-future-directions">Conclusion and Future Directions</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#related-publications">Related Publications</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../about.html">About Me</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu"  style="background: white" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">Daniele Di Pompeo, PhD</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../index.html" class="icon icon-home" aria-label="Home"></a></li>
+          <li class="breadcrumb-item"><a href="../blog.html">Blog</a></li>
+      <li class="breadcrumb-item active">Beyond Pure Performance: Harnessing Multi-Objective Optimization for Sustainable and Reliable Software Architectures</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../_sources/posts/genetic_improvement.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="beyond-pure-performance-harnessing-multi-objective-optimization-for-sustainable-and-reliable-software-architectures">
+<span id="genetic-improvement"></span><h1>Beyond Pure Performance: Harnessing Multi-Objective Optimization for Sustainable and Reliable Software Architectures<a class="headerlink" href="#beyond-pure-performance-harnessing-multi-objective-optimization-for-sustainable-and-reliable-software-architectures" title="Link to this heading"></a></h1>
+<p>Software quality is complex, often requiring designers to navigate challenging trade-offs between desirable yet conflicting attributes, such as maximizing performance while maintaining reliability. For modern software applications, especially those using microservices in the cloud, models are crucial for managing this complexity. Multi-objective optimization (MOO), leveraged through Search-Based Software Engineering (SBSE), offers a powerful solution by providing a wider view on these trade-offs and identifying optimal refactoring actions.</p>
+<p>This post dives into how evolutionary algorithms, particularly NSGA-II, are being harnessed to automatically explore vast architectural solution spaces to find optimal design alternatives based on a comprehensive set of non-functional requirements.</p>
+<figure class="align-center" id="id8">
+<a class="reference internal image-reference" href="../_images/genetic_improvement.png"><img alt="Genetic Improvement Mind Map" src="../_images/genetic_improvement.png" style="width: 100%;" />
+</a>
+<figcaption>
+<p><span class="caption-text">Mind map summarizing the key concepts of genetic improvement for software architectures (click to enlarge)</span><a class="headerlink" href="#id8" title="Link to this image"></a></p>
+</figcaption>
+</figure>
+<hr class="docutils" />
+<section id="the-four-dimensions-of-optimization">
+<h2>The Four Dimensions of Optimization<a class="headerlink" href="#the-four-dimensions-of-optimization" title="Link to this heading"></a></h2>
+<p>MOO aims to simultaneously optimize several objectives by searching for Pareto optimal solutions. Researchers in this domain employ algorithms like the Non-dominated Sorting Algorithm II (NSGA-II) to systematically evaluate architectural variants generated through automated refactoring actions.</p>
+<p>The optimization is typically driven by four core, quantifiable objectives:</p>
+<ol class="arabic simple">
+<li><p><strong>Performance Quality Indicator</strong> (<span class="math notranslate nohighlight">\(\text{perfQ}\)</span>): This metric quantifies the performance improvement or detriment between an initial model and a refactored alternative. Performance is analyzed by solving Layered Queueing Networks (LQN), which are generated through a model transformation from annotated UML models.</p></li>
+<li><p><strong>Reliability</strong>: This is assessed using an existing closed-form model for component-based software systems. The model considers failure probabilities of components and communication links, combined with the probability of a scenario being executed, to estimate the overall reliability on demand.</p></li>
+<li><p><strong>Performance Antipatterns</strong> (<span class="math notranslate nohighlight">\(\#\text{pas}\)</span>): A performance antipattern describes poor design practices that may cause performance degradation. The objective minimizes the occurrence of these antipatterns, which are automatically detected using first-order logic equations. Using fuzziness in detection helps assign probabilities to antipattern occurrences, making the identification less strictly dependent on deterministic thresholds.</p></li>
+<li><p><strong>Architectural Distance</strong> (<span class="math notranslate nohighlight">\(\#\text{changes}\)</span>/Complexity): This quantifies the effort required to obtain a model alternative from the initial one. It is measured as the sum of efforts for all refactoring actions in a sequence, where effort is the product of the <strong>Baseline Refactoring Factor</strong> (<span class="math notranslate nohighlight">\(\text{BRF}\)</span>) (intrinsic action cost) and <strong>Architectural Weight</strong> (<span class="math notranslate nohighlight">\(\text{AW}\)</span>) (cost related to the target element’s complexity and connectivity). Minimizing this distance ensures proposed solutions remain practical and avoid requiring a complete redesign.</p></li>
+</ol>
+<p><a class="reference internal" href="#icsa2018" id="id1"><span>[icsa2018]</span></a>
+<a class="reference internal" href="#icsa2023" id="id2"><span>[icsa2023]</span></a></p>
+</section>
+<section id="integrating-sustainability-a-new-trade-off">
+<h2>Integrating Sustainability: A New Trade-off<a class="headerlink" href="#integrating-sustainability-a-new-trade-off" title="Link to this heading"></a></h2>
+<p>The framework has been extended to tackle the burgeoning concern of environmental impact by incorporating <strong>sustainability</strong> as a critical objective, particularly focusing on cloud deployments of microservices.</p>
+<p>In this <strong>power-aware</strong> optimization, the goals are minimizing response time, deployment cost, refactoring complexity, and <strong>power consumption</strong>. Power consumption is estimated based on the utilization of nodes (servers) in the deployment, acknowledging that most power consumption comes from the CPU.</p>
+<p>A key finding from experiments on the Train Ticket Booking Service (TTBS) case study reveals that introducing the power objective significantly impacts system response time, but surprisingly, has a <strong>negligible impact on deployment costs</strong>. This suggests that achieving more sustainable solutions may require trading off performance, but not necessarily cost, under current cloud offerings.</p>
+<p><a class="reference internal" href="#icsa2024" id="id3"><span>[icsa2024]</span></a></p>
+</section>
+<section id="the-role-of-automated-refactoring">
+<h2>The Role of Automated Refactoring<a class="headerlink" href="#the-role-of-automated-refactoring" title="Link to this heading"></a></h2>
+<p>The evolutionary algorithms search sequences of refactoring actions applied to UML models, which are augmented with MARTE (performance) and DAM (reliability/dependability) profiles.</p>
+<p>A common set of refactoring actions utilized includes:</p>
+<ul class="simple">
+<li><p><strong>Clone a Node</strong> (<span class="math notranslate nohighlight">\(\text{Clon}\)</span>): Introduces a replica of a platform device to reduce utilization.</p></li>
+<li><p><strong>Move Operation to New Component/Node</strong> (<span class="math notranslate nohighlight">\(\text{MO2N}\)</span>): Transfers an operation to a new component/node to lighten the load on the original elements.</p></li>
+<li><p><strong>Move Operation to Existing Component</strong> (<span class="math notranslate nohighlight">\(\text{MO2C}\)</span>): Transfers an operation to an existing component without adding a new node.</p></li>
+<li><p><strong>Redeploy Component</strong> (<span class="math notranslate nohighlight">\(\text{ReDe}\)</span>): Modifies the deployment view by moving a component to a newly created node.</p></li>
+<li><p><strong>Remove Node</strong> (<span class="math notranslate nohighlight">\(\text{DROP}\)</span>): Relocates deployed components to neighbor nodes, often favoring cost and power reduction.</p></li>
+</ul>
+<p>Analysis of the optimal Pareto frontiers shows a consistent order of preference for certain refactoring actions, with <span class="math notranslate nohighlight">\(\text{Clon}\)</span> and <span class="math notranslate nohighlight">\(\text{MO2N}\)</span> frequently selected, as they are inherently beneficial for performance by splitting load or reserving resources. When optimizing for power consumption, <span class="math notranslate nohighlight">\(\text{DROP}\)</span> (Remove Node) becomes highly frequent, indicating the algorithm efficiently identifies and consolidates components previously deployed on underutilized nodes to save on cost and energy.</p>
+<p><a class="reference internal" href="#ist2023" id="id4"><span>[ist2023]</span></a>
+<a class="reference internal" href="#ist2021" id="id5"><span>[ist2021]</span></a></p>
+</section>
+<section id="leveraging-human-interaction-human-in-the-loop">
+<h2>Leveraging Human Interaction (Human-in-the-Loop)<a class="headerlink" href="#leveraging-human-interaction-human-in-the-loop" title="Link to this heading"></a></h2>
+<p>While automation is efficient, it often misses the nuanced domain-specific knowledge held by human architects. To address this, a hybrid approach incorporating <strong>preference-based interactivity</strong> has been developed.</p>
+<p>In this process, designers can intervene at intermediate points in the optimization. Solutions are grouped into clusters, and <strong>cluster centroids</strong> (representative trade-offs) are presented visually to the designer. The designer selects a centroid that aligns with their goals (e.g., high reliability and low cost) and restarts the search, focusing exploration on that region of interest.</p>
+<p>This interaction demonstrably <strong>narrows the explored solution space</strong>, leading to improved architectural quality within that focused area. By guiding the search, the interactive approach can steer toward architectures that a fully automated process might never explore. Furthermore, software architects participating in user studies generally found these interactive features useful and appreciated the <strong>reduction in computational time</strong> achieved by avoiding unnecessary exploration of non-preferred regions.</p>
+<p><a class="reference internal" href="#tosem2025" id="id6"><span>[tosem2025]</span></a></p>
+</section>
+<section id="conclusion-and-future-directions">
+<h2>Conclusion and Future Directions<a class="headerlink" href="#conclusion-and-future-directions" title="Link to this heading"></a></h2>
+<p>The integration of MOO with model-based refactoring provides a fundamental method for generating design alternatives characterized by <strong>significant improvements in both reliability and performance</strong>. Experiments have shown improvements up to <strong>42% in performance</strong> and up to <strong>32% in reliability</strong> in generated model alternatives.</p>
+<p>Looking ahead, future research aims to further enhance this powerful framework by addressing several challenges:</p>
+<ul class="simple">
+<li><p><strong>Algorithm Refinement</strong>: Investigating the effects of algorithm settings (e.g., population size) and comparing other genetic algorithms (such as PESA2, which often generates the highest quality fronts, versus NSGA-II, which is fastest).</p></li>
+<li><p><strong>Cost Modeling</strong>: Refining the estimation of architectural cost (<span class="math notranslate nohighlight">\(\text{BRF}\)</span>) using more complex models, such as COCOMO-II.</p></li>
+<li><p><strong>Portfolio Expansion</strong>: Extending the refactoring action portfolio to include concepts like fault tolerance actions.</p></li>
+<li><p><strong>Visualization and Interactivity</strong>: Further exploring visualization techniques to better support human designers in understanding complex trade-offs and enabling human-in-the-loop processes.</p></li>
+</ul>
+</section>
+<section id="related-publications">
+<h2>Related Publications<a class="headerlink" href="#related-publications" title="Link to this heading"></a></h2>
+<div role="list" class="citation-list">
+<div class="citation" id="tosem2025" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id6">tosem2025</a><span class="fn-bracket">]</span></span>
+<p>Vittorio Cortellessa, Jorge Andrés Díaz Pace, Daniele Di Pompeo, Sebastian Frank, Pooyan Jamshidi, Michele Tucci, André van Hoorn.
+<strong>Introducing Interactions in Multi-Objective Optimization of Software Architectures</strong>.
+<em>ACM Transactions on Software Engineering and Methodology (TOSEM)</em>, 34(6), Article 181, 2025.
+DOI: <a class="reference external" href="https://doi.org/10.1145/3712185">10.1145/3712185</a></p>
+</div>
+<div class="citation" id="ist2023" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id4">ist2023</a><span class="fn-bracket">]</span></span>
+<p>Vittorio Cortellessa, Daniele Di Pompeo, Vincenzo Stoico, Michele Tucci.
+<strong>Many-objective optimization of non-functional attributes based on refactoring of software models</strong>.
+<em>Information and Software Technology</em>, 157, 107159, 2023.
+DOI: <a class="reference external" href="https://doi.org/10.1016/j.infsof.2023.107159">10.1016/j.infsof.2023.107159</a></p>
+</div>
+<div class="citation" id="ist2021" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id5">ist2021</a><span class="fn-bracket">]</span></span>
+<p>Vittorio Cortellessa, Daniele Di Pompeo.
+<strong>Analyzing the sensitivity of multi-objective software architecture refactoring to configuration characteristics</strong>.
+<em>Information and Software Technology</em>, 135, 106568, 2021.
+DOI: <a class="reference external" href="https://doi.org/10.1016/j.infsof.2021.106568">10.1016/j.infsof.2021.106568</a></p>
+</div>
+<div class="citation" id="icsa2024" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id3">icsa2024</a><span class="fn-bracket">]</span></span>
+<p>Vittorio Cortellessa, Daniele Di Pompeo, Michele Tucci.
+<strong>Exploring Sustainable Alternatives for the Deployment of Microservices Architectures in the Cloud</strong>.
+<em>21st IEEE International Conference on Software Architecture (ICSA)</em>, pp. 34–45, 2024.
+DOI: <a class="reference external" href="https://doi.org/10.1109/ICSA59870.2024.00012">10.1109/ICSA59870.2024.00012</a></p>
+</div>
+<div class="citation" id="icsa2023" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id2">icsa2023</a><span class="fn-bracket">]</span></span>
+<p>Daniele Di Pompeo, Michele Tucci.
+<strong>Multi-objective Software Architecture Refactoring driven by Quality Attributes</strong>.
+<em>20th International Conference on Software Architecture (ICSA) – Companion</em>, pp. 175–178, L’Aquila, Italy, March 2023.
+DOI: <a class="reference external" href="https://doi.org/10.1109/ICSA-C57050.2023.00046">10.1109/ICSA-C57050.2023.00046</a></p>
+</div>
+<div class="citation" id="icsa2018" role="doc-biblioentry">
+<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id1">icsa2018</a><span class="fn-bracket">]</span></span>
+<p>Davide Arcelli, Vittorio Cortellessa, Mattia D’Emidio, Daniele Di Pompeo.
+<strong>EASIER: An Evolutionary Approach for Multi-objective Software Architecture Refactoring</strong>.
+<em>IEEE International Conference on Software Architecture (ICSA)</em>, pp. 105–114, Seattle, USA, 2018.
+DOI: <a class="reference external" href="https://doi.org/10.1109/ICSA.2018.00020">10.1109/ICSA.2018.00020</a></p>
+</div>
+</div>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="../blog.html" class="btn btn-neutral float-left" title="Blog" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../about.html" class="btn btn-neutral float-right" title="About Me" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2025, Daniele Di Pompeo.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+    <!-- Theme Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-XXXXXXXXXX', {
+          'anonymize_ip': false,
+      });
+    </script> 
+
+</body>
+</html>

@@ -1,0 +1,92 @@
+.. _teaching:
+
+====================
+Teaching Activities
+====================
+
+
+Agile Programming Methodologies
+===============================
+
+**Role:** Main Instructor
+
+**Course Focus:** Software Design, SCRUM methodologies
+
+**Academic Years:**
+
+* **2025/2026** - 48 hours of teaching
+* **2024/2025** - 48 hours of teaching
+* **2023/2024** - 48 hours of teaching
+* **2022/2023** - 48 hours of teaching
+* **2021/2022** - 36 hours of teaching
+
+Course Description
+------------------
+
+This course provides comprehensive instruction in agile programming methodologies with a particular focus on:
+
+**Software Design Principles:**
+- Object-oriented design patterns
+- SOLID principles
+- Clean code practices
+- Architecture patterns
+
+**SCRUM Methodology:**
+- SCRUM framework and roles
+- Sprint planning and execution
+- Product backlog management
+- User story development and estimation
+
+**Learning Outcomes:**
+Students completing this course will be able to:
+
+- Apply agile principles in software development projects
+- Implement SCRUM methodology in team environments
+- Design software using established patterns and principles
+- Collaborate effectively in agile development teams
+- Manage project timelines and deliverables using agile tools
+
+Software Quality Engineering
+========================================
+
+**Role:** Subject-Matter Expert
+
+**Topics:** Model-Driven Engineering and Performance Modeling laboratories
+
+**Academic Years:** 2019-2023
+
+**Responsibilities:**
+- Design and development of laboratory exercises
+- Student guidance in performance modeling techniques
+- Curriculum development for model-driven engineering approaches
+- Assessment and evaluation of student projects
+
+**Key Areas Covered:**
+- UML modeling for performance analysis
+- Performance modeling using Queueing Networks (QNs)
+- Tool usage for performance evaluation (MARTE profiles)
+
+Advanced Verification and Validation
+================================================
+
+**Role:** Subject-Matter Expert
+
+**Topics:** Advanced testing methodologies and validation techniques
+
+**Academic Years:** 2019-2023
+
+**Responsibilities:**
+- Laboratory supervision for validation techniques
+- Student mentoring in verification methodologies
+
+**Key Areas Covered:**
+- Model-based testing approaches
+- Co-simulation validation techniques
+- Performance and reliability validation
+- Performance testing in CI/CD pipelines
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Student Supervision:
+
+   student_supervision

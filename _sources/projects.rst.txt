@@ -1,0 +1,141 @@
+.. _projects:
+
+============================================
+Research Projects
+============================================
+
+.. contents::
+   :local:
+   :depth: 2
+
+Current Active Projects
+=======================
+
+MEDITATE – National Project (2024 – 2026)
+-----------------------------------------
+
+**Title:** MEDITATE: towards Model-based gEneration anD optImizaTion of Advanced driver assistance systems Testing scEnarios in co-simulation
+
+**Role:** Task Leader:
+- T3.1: Identification/Definition of a reference meta-model for ADAS testing
+- T3.2: Interoperability of ADAS co-simulation platforms
+
+**Funding:** Italian Ministry of University and Research, PRIN 2022 (PE6 - Computer Science and Informatics)
+Directorial Decree n. 1401 of 18-09-2024
+
+**Budget:** €XXX,XXX (total project budget)
+
+**Description:** 
+Development of an integrated framework for improving co-simulation-based validation of Advanced Driver Assistance Systems (ADAS). The project focuses on automated generation and optimization of test scenarios.
+
+**Key Objectives:**
+- Automated test scenario generation for ADAS validation
+- Optimization algorithms for test suite effectiveness
+- Co-simulation integration framework
+- Validation methodology for autonomous driving systems
+
+**Website:** TBD
+
+RECHARGE – National Project (2023 – 2025)
+-----------------------------------------
+
+**Title:** RECHARGE: Monitoring, Testing, and Characterization of Performance Regressions
+
+**Role:** PhD Student Coordinator, Research Fellow Coordinator
+
+**Team:** 
+- PhD Student: Idrees Ahmad
+- Research Fellow: Martin Beseda
+
+**Funding:** Italian Ministry of University and Research, PRIN 2022 PNRR (PE6 - Computer Science and Informatics)
+Directorial Decree n. 1205 of 28-07-2023
+
+**Budget:** €257,017
+
+**Description:** 
+Development of a comprehensive framework leveraging static analysis and search-based algorithms for automating performance testing in CI/CD pipelines.
+
+**Research Pillars:**
+- **Automated Performance Monitoring:** Real-time detection of performance degradations
+- **Automated Test Generation:** Co-generation of performance tests with functional tests
+- **Root Cause Analysis:** Automated identification of performance regression sources
+
+**Key Innovations:**
+- Integration of static analysis with dynamic performance testing
+- Search-based optimization for test case generation
+- Machine learning approaches for performance anomaly detection
+
+**Website:** https://recharge-project.github.io
+
+SoBigData.it – European Infrastructure (2020 – 2023)
+----------------------------------------------------
+
+**Title:** SoBigData.it - Strengthening the Italian RI for Social Mining and Big Data Analytics
+
+**Role:** Work Package Leader (WP2 - Activity 2.12: UNIVAQ Research contribution to Virtual Laboratories)
+
+**Funding:** European Union NextGenerationEU – PNRR
+Total: €3,510,000 | University of L'Aquila allocation: €380,000
+
+**Description:** 
+Enhancement of interdisciplinary research capabilities on social complexity through integration of data-driven and model-driven approaches.
+
+**Responsibilities:**
+- Lead Activity 2.12: Research contribution to Virtual Laboratories
+- Contribute to WP1 (Infrastructure setup)
+- Support Objective 2.2: Virtual Research Laboratories dissemination
+
+**Website:** http://sobigdata.eu/
+
+Completed Projects
+==================
+
+EMERGE-Navigation – National Project (2019 – 2023)
+--------------------------------------------------
+
+**Title:** EMERGE: Connected Commercial Vehicles & Emerging Technologies for Everyday Operability and Emergency Assistance – NAVIGATION
+
+**Role:** Co-responsible for Non-functional Requirements (Objective 14)
+
+**Funding:** Interministerial Committee for Economic Planning (CIPE)
+Resolution n.70/2017 - L'Aquila Seismic Crater Development Program
+
+**Description:** 
+Development of enabling technologies for connected and autonomous vehicles with stringent safety requirements.
+
+**Key Contributions:**
+- Definition and validation of non-functional requirements for the entire EMERGE system
+- Collaboration with Moviri S.p.A. (Milan) for system verification activities
+- Integration of localization, communication, and cybersecurity technologies
+
+**Website:** http://exemerge.disim.univaq.it/?page_id=342
+
+MegaM@Rt2 – European Project (2017 – 2020)
+------------------------------------------
+
+**Title:** MegaModeling at Runtime – Scalable Model-based Framework for Continuous Development and Runtime Validation of Complex Systems
+
+**Role:** Task Leader (T4.4) and Tool Developer (WP5)
+
+**Funding:** ECSEL Joint Undertaking, Grant Agreement No. 737494
+Total Budget: €16.5 million
+
+**Description:** 
+Creation of a comprehensive framework incorporating methods and tools for continuous development and validation using scalable model-based approaches.
+
+**Key Responsibilities:**
+
+- Co-responsible for Task T4.4: Unified metamodel for non-functional properties traceability (WP4)
+- Lead development of refactoring tool guided by non-functional properties (WP5)
+- Integration of developed tools into the project toolbox
+
+**Deliverables:**
+
+- D4.4: Unified Metamodel for Non-functional Properties Traceability
+- PADRE Refactoring Tool (integrated in project toolbox)
+
+**Links:**
+
+- **Project Website:** https://megamart2-ecsel.eu/
+- **Deliverable D4.4:** http://hdl.handle.net/20.500.12004/1/P/MMART2/D4.4
+- **Project Toolbox:** http://toolbox.megamart2-ecsel.eu/content/padre

@@ -1,0 +1,207 @@
+.. _committee:
+
+===================================
+Organizing & Conference Committees
+===================================
+
+Editorial Committees
+^^^^^^^^^^^^^^^^^^^^^
+
+2024
+++++++++++++++
+
+* | **Guest Editor**, Journal of Systems and Software Special Issue on Quality in Software Architecture. https://www.sciencedirect.com/journal/journal-of-systems-and-software/about/call-for-papers#quality-in-software-architecture
+
+Organizing committees
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+2024
+++++++++++++++
+
+* | **Chair** 3rd International Workshop on Quality in Software Architecture (QUALIFIER 2024). 
+  | https://qualifier-workshop.github.io/ECSA2024
+
+* | **Technical Program Chair** 20th European Performance Engineering Workshop (EPEW 2024). 
+  | https://epew-workshop.github.io/
+
+* | **Chair** 2nd International Workshop on Quality in Software Architecture (QUALIFIER 2024). 
+  | https://qualifier-workshop.github.io/
+
+2023
+++++++++++++++
+
+* | **Chair** 1st International Workshop on Sustainable Service-Oriented Computing: Addressing Environmental, Social, and Economic Dimensions (SSCOPE 2023) 
+  | https://sscope-workshop.github.io/
+
+* | **Chair** 1st International Workshop on Quality in Software Architecture (QUALIFIER 2023)
+  | https://qualifier-workshop.github.io/
+
+* | **Poster and Demos Track Chair** 14th International conference on Performance Engineering -- Poster and Demos Track (ICPE 2023)
+  | https://icpe2023.spec.org/organizing-committee
+
+* | **Chair** 8th Workshop on Challenges in Performance Methods for Software Development (WOSP-C 2023)
+  | https://wosp-c.github.io/wosp-c-23/
+
+2022
+++++++++++++++
+
+* | **Chair** 7th Workshop on Challenges in Performance Methods for Software Development (WOSP-C 2022)
+  | https://wosp-c.github.io/wosp-c-22/1
+
+2021
+++++++++++++++
+
+* | **Publications co-Chair** 12th International Conference on Performance Engineering (ICPE 2021)
+  | https://icpe2021.spec.org/organization/organizing-committee
+
+2017
+++++++++++++++
+
+* | **Web Chair** 8th International conference on Software Performance (ICPE 2017)
+  | https://icpe2017.spec.org/organizing-committee
+
+* | **Chair** Primo Working Day del System and Service Quality CINI Working Group
+  | https://www.consorzio-cini.it/index.php/it/gdl/system-and-service-quality
+
+
+Program committees
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+2026
+++++++++++++++
+
+* | *Program Committee - International Conference on Evaluation and Assessment in Software Engineering (EASE 2026)*
+  | https://conf.researchr.org/home/ease-2026
+
+* | *Program Committee - 23rd IEEE International Conference on Software Architecture (ICSA 2026)*
+  | https://conf.researchr.org/committee/icsa-2026/icsa-2026-papers-program-committee
+
+
+2025
+++++++++++++++
+
+* | *Program Committee - International Conference on Evaluation and Assessment in Software Engineering (EASE 2025)*
+  | https://conf.researchr.org/home/ease-2025
+
+* | *Program Committee - International Conference on Web Services 2025 (ICWS 2025)*
+  | https://icws2025.conferenceservices.net/ 
+
+* | *Program Committee - 22nd International Conference on Service-Oriented Computing (ICSOC 2025)*
+  | https://icsoc2025.redcad.tn/
+
+* | *Program Committee - 22nd IEEE International Conference on Software Architecture (ICSA 2025)*
+  | https://conf.researchr.org/committee/icsa-2025/icsa-2025-papers-program-committee
+
+* | *Program Committee - 21st Workshop on Advances in Model Based Testing (A-MOST 2025)*
+  | https://conf.researchr.org/home/icst-2025/a-most-2025
+
+* | *Program Committee - 4th International Workshop on Model-Driven Engineering for Software Architecture (MDE4SA 2025)*
+  | https://mde4sa.github.io/
+  
+* | *Short Papers and Posters Track Committee - 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)*
+  | https://conf.researchr.org/track/saner-2025/saner-2025-short-papers-and-posters-track
+  
+* | *Program Committee - 13th technical track on Software Architecture: Theory, Technology, and Applications (SA-TTA 2025)*
+  | https://satta.polimi.it/2025/
+  
+2024
+++++++++++++++
+
+* | *Program Committee - 22nd International Conference on Service-Oriented Computing (ICSOC 2024)*
+  | https://icsoc2024.redcad.tn/
+  
+* | *Program Committee - 28th International Conference on Evaluation and Assessment in Software Engineering (EASE 2024)*
+  | https://conf.researchr.org/home/ease-2024
+ 
+* | *Technical track Committee - 21st IEEE International Conference on Software Architecture (ICSA 2024)*
+  | https://conf.researchr.org/home/icsa-2024
+
+* | *Program Committee - International Conference on Software Performance Engineering (ICPE 2024)*
+  | https://icpe2024.spec.org/program-committee/
+ 
+* | *Program Committee - 2nd Workshop on Artificial Intelligence for Performance Modeling, Prediction, and Control (AiPerf 2024)*
+  | https://aiperf.github.io/aiperf2024/
+
+* | *Program Committee - Workshop on Load Testing and Benchmarking of Software Systems (LTB 2024)*
+  | https://ltb2024.github.io/
+ 
+* | *Program Committee - 20th Workshop on Advances in Model Based Testing (A-MOST 2024)*
+  | https://conf.researchr.org/home/icst-2024/a-most-2024
+
+* | *Artifact Evaluation Committee - 46th International Conference on Software Engineering (ICSE 2024)*
+  | https://conf.researchr.org/track/icse-2024/icse-2024-artifact-evaluation
+
+* | *Technical track Committee - 31st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)*
+  | https://conf.researchr.org/track/saner-2024/saner-2024-papers
+
+* | *Short paper track Committee - 31st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)*
+  | https://conf.researchr.org/track/saner-2024/saner-2024-short-papers-and-posters-track-
+
+* | *Tool demo track Committee - 31st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)*
+  | https://conf.researchr.org/track/saner-2024/saner-2024-tool-demo-track-
+
+2023
+++++++++++++++
+
+* | *Program Committee - 19th European Performance Engineering Workshop (EPEW 2023)*
+  | https://asmta2023.sciencesconf.org/resource/page/id/6
+
+* | *Technical track Committee - 20th IEEE International Conference on Software Architecture (ICSA 2023)*
+  | https://icsa-conferences.org/2023/call-for-papers/technical-papers/
+
+* | *Data Challenge Track Committee - 14th International Conference on Software Performance Engineering (ICPE 2023)*
+  | https://icpe2023.spec.org/program-committee/
+
+* | *Junior Program Committee - 20th International Conference on Mining Software Repositories (MSR 2023)*
+  | https://conf.researchr.org/track/msr-2023/msr-2023-junior-pc
+
+* | *Program Committee - 1st Workshop on Artificial Intelligence for Performance Modeling, Prediction, and Control (AiPerf 2023)*
+  | https://aiperf.github.io/aiperf2023/
+
+* | *Program Committee - Workshop on Load Testing and Benchmarking of Software Systems (LTB 2023)*
+  | https://ltb2023.github.io/
+
+* | *Program Committee - 3rd International Workshop on Model-Driven Engineering for Software Architecture (MDE4SA 2023)*
+  | https://mde4sa.github.io/
+
+2022
+++++++++++++++
+
+* | *Work-in-Progress & Vision track Committee - 13th International Workshop on Modeling Language Engineering (ICPE 2022)*
+  | https://icpe2022.spec.org/program-committee/
+
+* | *Program Committee - 4th International Workshop on Modeling Language Engineering (MLE 2022)*
+  | https://mleworkshop.github.io/editions/mle2022/#program-committee
+
+* | *Artifact Evaluation Committee - Automated Software Engineering (ASE 2022)*
+  | https://conf.researchr.org/track/ase-2022/ase-2022-artifact-evaluation
+
+* | *Program Committee - Automated and verifiable Software sYstem DEvelopment (ASYDE 2022)*
+  | https://asyde-series.github.io/asyde2022/
+
+2021
+++++++++++++++
+
+* | *Artifact Evaluation Committee - Automated Software Engineering (ASE 2021)*
+  | https://conf.researchr.org/track/ase-2021/ase-2021-artifact-evaluation
+
+* | *Artifacts-track Committee - ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2021)*
+  | https://2021.esec-fse.org/committee/fse-2021-artifacts-program-committee
+
+*  Shadow Committee - International Conference on Mining Software Repositories (MSR 2021)*
+  | https://2021.msrconf.org/track/msr-2021-shadow-pc?
+
+* | *Program Committee - International Workshop on Modeling Language Engineering (MLE 2021)*
+  | https://mleworkshop.github.io/editions/mle2021/#program-committee
+
+* | *Demo Evaluation Committee - International Conference on Pervasive Computing and Communications (PerCom 2021)*
+  | https://www.percom.org
+
+2020
+++++++++++++++
+
+* | *Artifact Evaluation Committee - International Conference on Performance Engineering  (ICPE 2020)*
+  | https://icpe2020.spec.org/program-committee
+
+* | *Demo Evaluation Committee - International Conference on Pervasive Computing and Communications (PerCom 2020)*
+  | https://percom.org/

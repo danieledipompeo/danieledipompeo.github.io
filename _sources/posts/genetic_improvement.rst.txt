@@ -1,0 +1,124 @@
+.. _genetic_improvement:
+
+====================================================================================================================
+Beyond Pure Performance: Harnessing Multi-Objective Optimization for Sustainable and Reliable Software Architectures
+====================================================================================================================
+
+Software quality is complex, often requiring designers to navigate challenging trade-offs between desirable yet conflicting attributes, such as maximizing performance while maintaining reliability. For modern software applications, especially those using microservices in the cloud, models are crucial for managing this complexity. Multi-objective optimization (MOO), leveraged through Search-Based Software Engineering (SBSE), offers a powerful solution by providing a wider view on these trade-offs and identifying optimal refactoring actions.
+
+This post dives into how evolutionary algorithms, particularly NSGA-II, are being harnessed to automatically explore vast architectural solution spaces to find optimal design alternatives based on a comprehensive set of non-functional requirements.
+
+.. figure:: /_static/img/genetic_improvement.png
+   :alt: Genetic Improvement Mind Map
+   :align: center
+   :width: 100%
+
+   Mind map summarizing the key concepts of genetic improvement for software architectures (click to enlarge)
+
+----
+
+The Four Dimensions of Optimization
+===================================
+
+MOO aims to simultaneously optimize several objectives by searching for Pareto optimal solutions. Researchers in this domain employ algorithms like the Non-dominated Sorting Algorithm II (NSGA-II) to systematically evaluate architectural variants generated through automated refactoring actions.
+
+The optimization is typically driven by four core, quantifiable objectives:
+
+1. **Performance Quality Indicator** (:math:`\text{perfQ}`): This metric quantifies the performance improvement or detriment between an initial model and a refactored alternative. Performance is analyzed by solving Layered Queueing Networks (LQN), which are generated through a model transformation from annotated UML models.
+
+2. **Reliability**: This is assessed using an existing closed-form model for component-based software systems. The model considers failure probabilities of components and communication links, combined with the probability of a scenario being executed, to estimate the overall reliability on demand.
+
+3. **Performance Antipatterns** (:math:`\#\text{pas}`): A performance antipattern describes poor design practices that may cause performance degradation. The objective minimizes the occurrence of these antipatterns, which are automatically detected using first-order logic equations. Using fuzziness in detection helps assign probabilities to antipattern occurrences, making the identification less strictly dependent on deterministic thresholds.
+
+4. **Architectural Distance** (:math:`\#\text{changes}`/Complexity): This quantifies the effort required to obtain a model alternative from the initial one. It is measured as the sum of efforts for all refactoring actions in a sequence, where effort is the product of the **Baseline Refactoring Factor** (:math:`\text{BRF}`) (intrinsic action cost) and **Architectural Weight** (:math:`\text{AW}`) (cost related to the target element's complexity and connectivity). Minimizing this distance ensures proposed solutions remain practical and avoid requiring a complete redesign.
+
+[icsa2018]_ 
+[icsa2023]_
+
+Integrating Sustainability: A New Trade-off
+============================================
+
+The framework has been extended to tackle the burgeoning concern of environmental impact by incorporating **sustainability** as a critical objective, particularly focusing on cloud deployments of microservices.
+
+In this **power-aware** optimization, the goals are minimizing response time, deployment cost, refactoring complexity, and **power consumption**. Power consumption is estimated based on the utilization of nodes (servers) in the deployment, acknowledging that most power consumption comes from the CPU.
+
+A key finding from experiments on the Train Ticket Booking Service (TTBS) case study reveals that introducing the power objective significantly impacts system response time, but surprisingly, has a **negligible impact on deployment costs**. This suggests that achieving more sustainable solutions may require trading off performance, but not necessarily cost, under current cloud offerings.
+
+[icsa2024]_
+
+The Role of Automated Refactoring
+==================================
+
+The evolutionary algorithms search sequences of refactoring actions applied to UML models, which are augmented with MARTE (performance) and DAM (reliability/dependability) profiles.
+
+A common set of refactoring actions utilized includes:
+
+* **Clone a Node** (:math:`\text{Clon}`): Introduces a replica of a platform device to reduce utilization.
+* **Move Operation to New Component/Node** (:math:`\text{MO2N}`): Transfers an operation to a new component/node to lighten the load on the original elements.
+* **Move Operation to Existing Component** (:math:`\text{MO2C}`): Transfers an operation to an existing component without adding a new node.
+* **Redeploy Component** (:math:`\text{ReDe}`): Modifies the deployment view by moving a component to a newly created node.
+* **Remove Node** (:math:`\text{DROP}`): Relocates deployed components to neighbor nodes, often favoring cost and power reduction.
+
+Analysis of the optimal Pareto frontiers shows a consistent order of preference for certain refactoring actions, with :math:`\text{Clon}` and :math:`\text{MO2N}` frequently selected, as they are inherently beneficial for performance by splitting load or reserving resources. When optimizing for power consumption, :math:`\text{DROP}` (Remove Node) becomes highly frequent, indicating the algorithm efficiently identifies and consolidates components previously deployed on underutilized nodes to save on cost and energy.
+
+
+[ist2023]_
+[ist2021]_
+
+Leveraging Human Interaction (Human-in-the-Loop)
+=================================================
+
+While automation is efficient, it often misses the nuanced domain-specific knowledge held by human architects. To address this, a hybrid approach incorporating **preference-based interactivity** has been developed.
+
+In this process, designers can intervene at intermediate points in the optimization. Solutions are grouped into clusters, and **cluster centroids** (representative trade-offs) are presented visually to the designer. The designer selects a centroid that aligns with their goals (e.g., high reliability and low cost) and restarts the search, focusing exploration on that region of interest.
+
+This interaction demonstrably **narrows the explored solution space**, leading to improved architectural quality within that focused area. By guiding the search, the interactive approach can steer toward architectures that a fully automated process might never explore. Furthermore, software architects participating in user studies generally found these interactive features useful and appreciated the **reduction in computational time** achieved by avoiding unnecessary exploration of non-preferred regions.
+
+[tosem2025]_
+
+
+Conclusion and Future Directions
+=================================
+
+The integration of MOO with model-based refactoring provides a fundamental method for generating design alternatives characterized by **significant improvements in both reliability and performance**. Experiments have shown improvements up to **42% in performance** and up to **32% in reliability** in generated model alternatives.
+
+Looking ahead, future research aims to further enhance this powerful framework by addressing several challenges:
+
+* **Algorithm Refinement**: Investigating the effects of algorithm settings (e.g., population size) and comparing other genetic algorithms (such as PESA2, which often generates the highest quality fronts, versus NSGA-II, which is fastest).
+* **Cost Modeling**: Refining the estimation of architectural cost (:math:`\text{BRF}`) using more complex models, such as COCOMO-II.
+* **Portfolio Expansion**: Extending the refactoring action portfolio to include concepts like fault tolerance actions.
+* **Visualization and Interactivity**: Further exploring visualization techniques to better support human designers in understanding complex trade-offs and enabling human-in-the-loop processes.
+
+
+Related Publications
+====================
+
+.. [tosem2025] Vittorio Cortellessa, Jorge Andrés Díaz Pace, Daniele Di Pompeo, Sebastian Frank, Pooyan Jamshidi, Michele Tucci, André van Hoorn.
+   **Introducing Interactions in Multi-Objective Optimization of Software Architectures**.
+   *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 34(6), Article 181, 2025.
+   DOI: `10.1145/3712185 <https://doi.org/10.1145/3712185>`_
+
+.. [ist2023] Vittorio Cortellessa, Daniele Di Pompeo, Vincenzo Stoico, Michele Tucci.
+   **Many-objective optimization of non-functional attributes based on refactoring of software models**.
+   *Information and Software Technology*, 157, 107159, 2023.
+   DOI: `10.1016/j.infsof.2023.107159 <https://doi.org/10.1016/j.infsof.2023.107159>`_
+
+.. [ist2021] Vittorio Cortellessa, Daniele Di Pompeo.
+   **Analyzing the sensitivity of multi-objective software architecture refactoring to configuration characteristics**.
+   *Information and Software Technology*, 135, 106568, 2021.
+   DOI: `10.1016/j.infsof.2021.106568 <https://doi.org/10.1016/j.infsof.2021.106568>`_
+
+.. [icsa2024] Vittorio Cortellessa, Daniele Di Pompeo, Michele Tucci.
+   **Exploring Sustainable Alternatives for the Deployment of Microservices Architectures in the Cloud**.
+   *21st IEEE International Conference on Software Architecture (ICSA)*, pp. 34–45, 2024.
+   DOI: `10.1109/ICSA59870.2024.00012 <https://doi.org/10.1109/ICSA59870.2024.00012>`_
+
+.. [icsa2023] Daniele Di Pompeo, Michele Tucci.
+  **Multi-objective Software Architecture Refactoring driven by Quality Attributes**.  
+  *20th International Conference on Software Architecture (ICSA) – Companion*, pp. 175–178, L’Aquila, Italy, March 2023.  
+  DOI: `10.1109/ICSA-C57050.2023.00046 <https://doi.org/10.1109/ICSA-C57050.2023.00046>`_
+
+.. [icsa2018] Davide Arcelli, Vittorio Cortellessa, Mattia D’Emidio, Daniele Di Pompeo.  
+  **EASIER: An Evolutionary Approach for Multi-objective Software Architecture Refactoring**.  
+  *IEEE International Conference on Software Architecture (ICSA)*, pp. 105–114, Seattle, USA, 2018.  
+  DOI: `10.1109/ICSA.2018.00020 <https://doi.org/10.1109/ICSA.2018.00020>`_

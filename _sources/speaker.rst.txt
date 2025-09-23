@@ -1,0 +1,62 @@
+.. _speaker:
+
+Talks / Presentations
+======================
+
+Invited Talks
+^^^^^^^^^^^^^
+
+* 
+  *Quality-centric Continuous Software Engineering*, University of Hamburg, invited by Andrè van Hoorn, (Virtual April 19, 2022)
+
+* 
+  *On the impact of performance antipatterns in multi-objective software model refactoring optimization*, SPEC DevOps Research Group, (Virtual October 22, 2021)
+
+*
+ *Run-time/Design-time Interactions for Performance Assessment*, SPEC DevOps Research Group, (Virtual June 9, 2020)
+
+
+Conference Presentations
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+* 
+  *Beyond Core Count: Optimizing Vertical Autoscaling with Performance-aware Hardware Configuration Selection* 21st European Performance Engineering Workshop (EPEW 2025)
+
+* 
+  *Harnessing Genetic Improvement for Sustainable Software Architectures* 8th International Workshop on Green and Sustainable Software (GREENS’24)
+
+*  
+  *Performance of Genetic Algorithms in the Context of Software Model Refactoring* 19th European Performance Engineering Workshop (EPEW 2023)
+
+*  
+  *Multi-Objective Optimization of Non-Functional Attributes based on Refactoring of Software Models* 2nd Conference on System and Service Quality (QualITA 2023)
+
+* 
+  *Search Budget in Multi-Objective Refactoring Optimization: a Model-Based Empirical Study* 48th Euromicro Conference on Software Engineering and Advanced Applications (SEAA 2022)
+
+* 
+  *Multi-Objective Optimization of Non-Functional Attributes based on Refactoring of Software Models* 1st Conference on System and Service Quality (QualITA 2022)
+
+* 
+  *On the impact of Performance Antipatterns in multi-objective software model refactoring optimization*  47th Euromicro Conference on Software Engineering and Advanced Applications (SEAA 2021)
+
+*  
+  *Performance-driven software model refactoring.* Journal First track of the 26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019)
+
+*  
+  *A metamodel for the specification and verification of model refactoring actions* 2nd International Workshop on Refactoring (IWoR 2018)
+
+*  
+  *Energy-driven reconfiguration of applications for Wireless Sensor Networks* 8th ACM/SPEC on International Conference on Performance Engineering Companion (EnergySim 2018)
+
+*  
+  *An Efficient Performance-Driven Approach for HW/SW Co-Design* 8th ACM/SPEC on International Conference on Performance Engineering (ICPE 2017)
+
+* 
+  *Automated translation among EPSILON languages for performance-driven UML software model refactoring* 1st International Workshop on Software Refactoring (IWoR 2016)
+
+.. raw:: html
+
+   <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1S6VQtdZ5Yx7dHQIgj6-jjc279FB8NxI&ehbc=2E312F" width="640" height="480*></iframe>
+
+
