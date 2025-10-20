@@ -8,37 +8,50 @@ Professional Experience
    :local:
    :depth: 2
 
+.. cv-start
 Current Position
 ^^^^^^^^^^^^^^^^
 
 * **Assistant Professor (RTD-a)**, University of L'Aquila, Italy  
   **Period:** 1st March 2023 – present  
   **Responsibilities:**  
-  - Co-advising Muhammad Waheed Khan, Ph.D. candidate (XXXIX cycle)  
-  - Co-advising Idrees Ahmad, Ph.D. candidate (XXXIX cycle)  
-  - Co-advising Payel Patra, Ph.D. candidate (XXXVIII cycle)  
+
+  - Ph.D. Co-advising (`external website <http://phdict.disim.univaq.it/students/>`_):
+   
+    * Muhammad Waheed Khan (XXXIX cycle)  
+    * Idrees Ahmad (XXXIX cycle)  
+    * Payel Patra (XXXVIII cycle)  
+
+  - Teaching:
+
+    * Agile Software Methodologies (:ref:`details <agile_programming_methodologies>`)
+    * Software Quality Engineering laboraties (:ref:`details <software_quality_engineering>`)
+    * Advanced Verification and Validation (:ref:`details <advanced_verification_and_validation>`)
 
 Past Positions
 ^^^^^^^^^^^^^^
 
-* **Expert of the Subject in Software Quality Engineering**, University of L'Aquila, Italy  
-  **Period:** 2020 – 2023  
-  **Responsibilities:**  
+* | **Expert of the Subject in Software Quality Engineering**, University of L'Aquila, Italy  
+  | **Period:** 2020 – 2023  
+  | **Responsibilities:**  
+
   - Supported students during the SQE course  
   - Served as a member of the Exam Committee  
 
-* **Post-Doctoral Researcher**, Center of Excellence EMERGE, Italy  
-  **Period:** 1st November 2019 – 28th February 2023  
+* | **Post-Doctoral Researcher**, Center of Excellence EMERGE, Italy  
+  | **Period:** 1st November 2019 – 28th February 2023  
 
-* **Post-Doctoral Researcher**, Center of Excellence DEWS, Italy  
-  **Period:** 1st November 2018 – 31st October 2020  
+* | **Post-Doctoral Researcher**, Center of Excellence DEWS, Italy  
+  | **Period:** 1st November 2018 – 31st October 2020  
 
 Visiting Experiences
 ^^^^^^^^^^^^^^^^^^^^
 
-* **Visiting Researcher**, University College Dublin, Ireland  
-  **Period:** 15th October 2017 – 25th March 2018 (5 months, 3 days)  
-  **Supervisor:** Prof. Mel Ó Cinnéide  
-  **Research Program:**  
-  - Investigated combining functional and non-functional objectives in the context of multi-objective optimization for software refactoring, where non-functional objectives were supported by performance antipattern detection and resolution.  
-  - Explored the porting of model-based performance antipattern detection and resolution techniques from the model level to the code level.  
+* | **Visiting Researcher**, University College Dublin, Ireland  
+  | **Period:** 15th October 2017 – 25th March 2018 (5 months, 3 days)  
+  | **Supervisor:** Prof. Mel Ó Cinnéide  
+  | **Research Program:**
+  
+      - Investigated combining functional and non-functional objectives in the context of multi-objective optimization for software refactoring, where non-functional objectives were supported by performance antipattern detection and resolution.  
+      - Explored the porting of model-based performance antipattern detection and resolution techniques from the model level to the code level.  
+.. cv-end

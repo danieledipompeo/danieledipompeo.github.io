@@ -12,6 +12,13 @@ Editorial Committees
 
 * | **Guest Editor**, Journal of Systems and Software Special Issue on Quality in Software Architecture. https://www.sciencedirect.com/journal/journal-of-systems-and-software/about/call-for-papers#quality-in-software-architecture
 
+Steering Committees
+^^^^^^^^^^^^^^^^^^^
+
+* | **Member** European Performance Engineering Workshop (EPEW) 
+  | 2023 - current
+  | https://epew-workshop.github.io/ 
+
 Organizing committees
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

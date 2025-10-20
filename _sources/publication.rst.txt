@@ -8,10 +8,17 @@ Publications
    :depth: 1
    :local:
 
+.. cv-start
+
 Journals
 ========
 
 **2025**
+
+- | Jorge Andrés Díaz Pace, Daniele Di Pompeo, Michele Tucci.
+  | **On the role of search budgets in model-based software refactoring optimization**.
+  | *Automated Software Engineering (ASE)*, 33, Article 18, 2025.
+  | DOI: `10.1007/s10515-025-00564-y <https://doi.org/10.1007/s10515-025-00564-y>`_
 
 - | Vittorio Cortellessa, Jorge Andrés Díaz Pace, Daniele Di Pompeo, Sebastian Frank, Pooyan Jamshidi, Michele Tucci, André van Hoorn.
   | **Introducing Interactions in Multi-Objective Optimization of Software Architectures**.
@@ -168,10 +175,11 @@ Conferences
   | *IEEE International Conference on Software Architecture Companion (ICSA-C)*, pp. 2–3, Seattle, USA, 2018.  
   | DOI: `10.1109/ICSA-C.2018.00006 <https://doi.org/10.1109/ICSA-C.2018.00006>`_
 
+
 - | Davide Arcelli, Vittorio Cortellessa, Daniele Di Pompeo.  
   | **A metamodel for the specification and verification of model refactoring actions**.  
   | *2nd International Workshop on Refactoring (IWoR@ASE)*, pp. 14–21, Montpellier, France, 2018.  
-  | DOI: `10.1145/3242163.3242167 <https://doi.org/10.1145/3242163.3242167>`_
+  | DOI: `10.1145/3242163.3242167 <https://doi.org/10.1145/3242163.3242167>`_ 
 
 - | Davide Arcelli, Vittorio Cortellessa, Mattia D’Emidio, Daniele Di Pompeo.  
   | **EASIER: An Evolutionary Approach for Multi-objective Software Architecture Refactoring**.  
@@ -347,3 +355,5 @@ Others
   | **On the Impact of Performance Antipatterns in Multi-Objective Software Model Refactoring Optimization**.  
   | *arXiv preprint*, arXiv:2107.06127, 2021.  
   | URL: `https://arxiv.org/abs/2107.06127 <https://arxiv.org/abs/2107.06127>`_
+
+  .. cv-end

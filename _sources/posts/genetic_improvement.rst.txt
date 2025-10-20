@@ -1,5 +1,7 @@
 .. _genetic_improvement:
 
+.. only:: html
+
 ====================================================================================================================
 Beyond Pure Performance: Harnessing Multi-Objective Optimization for Sustainable and Reliable Software Architectures
 ====================================================================================================================

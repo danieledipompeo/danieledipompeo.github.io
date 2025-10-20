@@ -8,6 +8,7 @@ Research Projects
    :local:
    :depth: 2
 
+
 Current Active Projects
 =======================
 
@@ -17,6 +18,7 @@ MEDITATE – National Project (2024 – 2026)
 **Title:** MEDITATE: towards Model-based gEneration anD optImizaTion of Advanced driver assistance systems Testing scEnarios in co-simulation
 
 **Role:** Task Leader:
+
 - T3.1: Identification/Definition of a reference meta-model for ADAS testing
 - T3.2: Interoperability of ADAS co-simulation platforms
 
@@ -29,6 +31,7 @@ Directorial Decree n. 1401 of 18-09-2024
 Development of an integrated framework for improving co-simulation-based validation of Advanced Driver Assistance Systems (ADAS). The project focuses on automated generation and optimization of test scenarios.
 
 **Key Objectives:**
+
 - Automated test scenario generation for ADAS validation
 - Optimization algorithms for test suite effectiveness
 - Co-simulation integration framework
@@ -44,23 +47,25 @@ RECHARGE – National Project (2023 – 2025)
 **Role:** PhD Student Coordinator, Research Fellow Coordinator
 
 **Team:** 
+
 - PhD Student: Idrees Ahmad
 - Research Fellow: Martin Beseda
 
 **Funding:** Italian Ministry of University and Research, PRIN 2022 PNRR (PE6 - Computer Science and Informatics)
 Directorial Decree n. 1205 of 28-07-2023
 
-**Budget:** €257,017
+**Budget:** €257.017
 
 **Description:** 
 Development of a comprehensive framework leveraging static analysis and search-based algorithms for automating performance testing in CI/CD pipelines.
+*Research Pillars:*
 
-**Research Pillars:**
 - **Automated Performance Monitoring:** Real-time detection of performance degradations
 - **Automated Test Generation:** Co-generation of performance tests with functional tests
 - **Root Cause Analysis:** Automated identification of performance regression sources
 
 **Key Innovations:**
+
 - Integration of static analysis with dynamic performance testing
 - Search-based optimization for test case generation
 - Machine learning approaches for performance anomaly detection
@@ -75,7 +80,7 @@ SoBigData.it – European Infrastructure (2020 – 2023)
 **Role:** Work Package Leader (WP2 - Activity 2.12: UNIVAQ Research contribution to Virtual Laboratories)
 
 **Funding:** European Union NextGenerationEU – PNRR
-Total: €3,510,000 | University of L'Aquila allocation: €380,000
+Total: €3.510.000 | University of L'Aquila allocation: €380,000
 
 **Description:** 
 Enhancement of interdisciplinary research capabilities on social complexity through integration of data-driven and model-driven approaches.

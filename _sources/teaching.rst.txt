@@ -4,6 +4,9 @@
 Teaching Activities
 ====================
 
+.. cv-start
+
+.. _agile_programming_methodologies:
 
 Agile Programming Methodologies
 ===============================
@@ -48,6 +51,8 @@ Students completing this course will be able to:
 - Collaborate effectively in agile development teams
 - Manage project timelines and deliverables using agile tools
 
+.. _software_quality_engineering:
+
 Software Quality Engineering
 ========================================
 
@@ -70,6 +75,8 @@ Software Quality Engineering
 - Performance modeling using Queueing Networks (QNs)
 - Tool usage for performance evaluation (MARTE profiles)
 
+.. _advanced_verification_and_validation:
+
 Advanced Verification and Validation
 ================================================
 
@@ -90,6 +97,8 @@ Advanced Verification and Validation
 - Co-simulation validation techniques
 - Performance and reliability validation
 - Performance testing in CI/CD pipelines
+
+.. cv-end
 
 .. toctree::
    :maxdepth: 1

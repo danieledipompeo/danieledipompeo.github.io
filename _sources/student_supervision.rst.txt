@@ -3,64 +3,41 @@
 PhD Supervision
 ===============
 
+.. cv-start
+
 Current PhD Students
 --------------------
 
 Muhammad Waheed Kahn
 ~~~~~~~~~~~~~~~~~~~~
 
-* **Research Topic:** Investigating the Impact of Software Refactoring on Performance and Energy Consumption
-
-* **Institution:** University of L'Aquila – Department of Engineering, Information Science, and Mathematics
-
-* **Role:** Principal Scientific Supervisor
-
-* **Period:** December 1, 2023 – present
-
-* **Funding:** Ministerial Decree No. 118 of 02-03-2023
-
-* **Research Focus:**
-
-  The research investigates the relationship between software maintenance activities and their impact on system performance and energy consumption. Key research areas include:
-
-  - Identification of software engineering activities with the highest impact on energy consumption
-  - Development of new catalog of energy-related code smells
-  - Performance degradation analysis in complex software systems
-  - Energy-aware software refactoring techniques
-
-* **International Collaboration:**
-
-  6-month research stay at University College Dublin under co-supervision of Prof. Liliana Pasquale
-
-* **Official Documentation:** https://www.univaq.it/section.php?id=2207
+| **PhD Cycle:** XXXIX
+| **Research Topic:** Investigating the Impact of Software Refactoring on Performance and Energy Consumption
+| **Institution:** University of L'Aquila – Department of Engineering, Information Science, and Mathematics
+| **Role:** Principal Scientific Supervisor
+| **Period:** December 1, 2023 – present
+| **Funding:** Ministerial Decree No. 118 of 02-03-2023
+| **International Collaboration:**
+  6-month research stay at University College Dublin under co-supervision of Prof. `Liliana Pasquale <https://lpasquale.github.io/>`_
 
 Idrees Ahmad
 ~~~~~~~~~~~~
 
-* **PhD Cycle:** XXXIX
-
-* **Institution:** University of L'Aquila – Department of Engineering, Information Science, and Mathematics
-
-* **Role:** Co-Supervisor
-
-* **Period:** May 1, 2024 – present
-
-* **Funding:** Ministerial Decree No. 118 of 02-03-2023
-
-* **Research Focus:** Performance regression analysis and automated testing frameworks
+| **PhD Cycle:** XXXIX
+| **Institution:** University of L'Aquila – Department of Engineering, Information Science, and Mathematics
+| **Role:** Co-Supervisor
+| **Period:** May 1, 2024 – present
+| **Funding:** Ministerial Decree No. 118 of 02-03-2023
+| **Research Focus:** Performance regression analysis and automated testing frameworks
 
 Payel Patra
 ~~~~~~~~~~~
 
-* **PhD Cycle:** XXXVIII
-
-* **Institution:** University of L'Aquila – Department of Engineering, Information Science, and Mathematics
-
-* **Role:** Co-Supervisor
-
-* **Period:** November 1, 2022 – present
-
-* **Research Focus:** Multi-objective optimization for software architectures
+| **PhD Cycle:** XXXVIII
+| **Institution:** University of L'Aquila – Department of Engineering, Information Science, and Mathematics
+| **Role:** Co-Supervisor
+| **Period:** November 1, 2022 – present
+| **Research Focus:** Multi-objective optimization for software architectures
 
 Post-doctoral Research Supervision
 ==================================
@@ -86,7 +63,7 @@ Master's and Bachelor's Thesis Supervision
 2025
 ----
 
-* **Manuel Di Cresce** - University of L'Aquila (TBC)
+* **Manuel Di Cresce** - University of L'Aquila (October 2025)
   
   *Title:* Architectural Refactoring and Front-end Redesign of a Legacy Performance Modeling Software
 
@@ -165,7 +142,4 @@ Master's and Bachelor's Thesis Supervision
   
   *Title:* Reverse Engineering of a Web Application in UML+MARTE and Model Integration with Performance Monitoring Results
 
-
-
-
-
+.. cv-end
