@@ -83,6 +83,11 @@ Program committees
 * | *Program Committee - 23rd IEEE International Conference on Software Architecture (ICSA 2026)*
   | https://conf.researchr.org/committee/icsa-2026/icsa-2026-papers-program-committee
 
+* | *Program Committee - 1st International Workshop on Green Software Evolution (Greenvolve)* 
+  | https://greenvolve.github.io/
+
+* | *Program Committee - 5th International Workshop on Model-Driven Engineering for Software Architecture (MDE4SA 2026)*
+  | https://mde4sa.github.io/
 
 2025
 ++++++++++++++

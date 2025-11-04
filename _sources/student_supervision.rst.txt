@@ -8,6 +8,16 @@ PhD Supervision
 Current PhD Students
 --------------------
 
+Ayaz Ahmed 
+~~~~~~~~~~~~~~~~~~~~
+
+| **PhD Cycle:** XLI
+| **Research Topic:** TBD
+| **Institution:** University of L'Aquila – Department of Engineering, Information Science, and Mathematics
+| **Role:** Principal Scientific Supervisor
+| **Period:** November 1, 2025 – present
+| **Funding:** Ministerial Decree No. 118 of 02-03-2023
+
 Muhammad Waheed Kahn
 ~~~~~~~~~~~~~~~~~~~~
 
@@ -60,85 +70,90 @@ Interdisciplinary research initiative focusing on prevention and management of n
 Master's and Bachelor's Thesis Supervision
 ==========================================
 
+.. MSc: 1(2), BSc: 6(6)
+
 2025
 ----
 
-* **Manuel Di Cresce** - University of L'Aquila (October 2025)
+* [BSc] **Manuel Di Cresce** - University of L'Aquila (October 2025)
   
   *Title:* Architectural Refactoring and Front-end Redesign of a Legacy Performance Modeling Software
 
-* **Federico Capricci** - University of L'Aquila (October 2025)
+* [BSc] **Federico Capricci** - University of L'Aquila (October 2025)
   
   *Title:* Analysis of Refactoring Impact on Energy Consumption in Open-Source Projects
 
-* **Simone Di Prospero** - University of L'Aquila (March 2025)
+* [BSc] **Simone Di Prospero** - University of L'Aquila (March 2025)
   
   *Title:* Historical Analysis of Energy Consumption in Open-Source Software Projects Using Perf and RAPL
 
 2024
 ----
 
-* **Alessandro Di Giacomo** - University of L'Aquila (December 2024)
+* [BSc] **Alessandro Di Giacomo** - University of L'Aquila (December 2024)
   
   *Title:* Evaluation of Response Times and Resource Utilization of Java Web Frameworks
 
-* **Agostino D'Agostino** - University of L'Aquila (December 2024)
+* [BSc] **Agostino D'Agostino** - University of L'Aquila (December 2024)
   
   *Title:* Exploring the Impact of Configuration Parameters on MongoDB Performance
 
-* **Giacomo Sfratato** - University of L'Aquila (July 2024)
+* [MSc] **Giacomo Sfratato** - University of L'Aquila (July 2024)
   
   *Title:* Performance Analysis of Recent Evolution in Thread-based Parallelism in Python
 
-* **Vincenzo Marono** - University of L'Aquila (March 2024)
+* [BSc] **Vincenzo Marono** - University of L'Aquila (March 2024)
   
   *Title:* Comparative Performance Study of JavaScript Frameworks in Interactive Live Streaming Context
 
-* **Muhammad Usama Bin Abad** - University of L'Aquila (2024)
+* [MSc] **Muhammad Usama Bin Abad** - University of L'Aquila (March 2024)
   
   *Title:* Automated Classification of Performance Issues in Open-Source Repositories
 
-* **Michele Intrevado** - University of L'Aquila (2024)
+* [MSc] **Michele Intrevado** - University of L'Aquila (March 2024)
   
   *Title:* Microbenchmarking in Functional Programming with Elixir
+
+2023
+----
+
+* [BSc] **Alessandro Sablone** - University of L'Aquila (July 2023)
+  
+  *Title:* Design and Implementation of a Library for Java Project Refactoring
 
 2022
 ----
 
-* **Alessandro Sablone** - University of L'Aquila (October 2022)
-  
-  *Title:* Design and Implementation of a Library for Java Project Refactoring
-
-* **Michele Intrevado** - University of L'Aquila (March 2022)
+* [BSc] **Michele Intrevado** - University of L'Aquila (March 2022)
   
   *Title:* Extension of Java Unit Tests with Performance Measurements
 
 2021
 ----
 
-* **Enrico Simone Adamelli** - University of L'Aquila (December 2021)
+* [BSc] **Enrico Simone Adamelli** - University of L'Aquila (December 2021)
   
   *Title:* Study of a Technique for Reporting Performance Analysis Results on Source Code
 
-* **Vincenzo De Petris** - University of L'Aquila (March 2021)
+* [BSc] **Vincenzo De Petris** - University of L'Aquila (March 2021)
   
   *Title:* Performance Benchmarking of a Java Microservices-based Application
 
 2020
 ----
 
-* **Natan Cieplinski** - University of L'Aquila (October 2020)
+* [BSc] **Natan Cieplinski** - University of L'Aquila (October 2020)
   
   *Title:* Performance Analysis of J2EE Applications Using SPEC Benchmarks
 
 2018
 ----
 
-* **Marisa Fallone** - University of L'Aquila (November 2018)
+* [MSc] **Marisa Fallone** - University of L'Aquila (November 2018)
   
   *Title:* Design, Development and Analysis of a Web Application Based on Microservices Architecture
 
-* **Stefano Di Francesco** - University of L'Aquila (November 2018)
+* [BSc] **Stefano Di Francesco** - University of L'Aquila (November 2018)
   
   *Title:* Reverse Engineering of a Web Application in UML+MARTE and Model Integration with Performance Monitoring Results
 
