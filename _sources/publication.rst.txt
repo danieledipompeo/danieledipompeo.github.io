@@ -13,12 +13,14 @@ Publications
 Journals
 ========
 
-**2025**
+**2026**
 
 - | Jorge Andrés Díaz Pace, Daniele Di Pompeo, Michele Tucci.
   | **On the role of search budgets in model-based software refactoring optimization**.
-  | *Automated Software Engineering (ASE)*, 33, Article 18, 2025.
+  | *Automated Software Engineering (ASE)*, 33, Article 18, 2026.
   | DOI: `10.1007/s10515-025-00564-y <https://doi.org/10.1007/s10515-025-00564-y>`_
+
+**2025**
 
 - | Vittorio Cortellessa, Jorge Andrés Díaz Pace, Daniele Di Pompeo, Sebastian Frank, Pooyan Jamshidi, Michele Tucci, André van Hoorn.
   | **Introducing Interactions in Multi-Objective Optimization of Software Architectures**.

@@ -77,6 +77,9 @@ Program committees
 2026
 ++++++++++++++
 
+* | *Program Committee - 42nd International Conference on Software Maintenance and Evolution (ICSME 2026)*
+  | https://conf.researchr.org/home/icsme-2026
+
 * | *Program Committee - International Conference on Evaluation and Assessment in Software Engineering (EASE 2026)*
   | https://conf.researchr.org/home/ease-2026
 
