@@ -16,7 +16,7 @@ Ayaz Ahmed
 | **Institution:** University of L'Aquila – Department of Engineering, Information Science, and Mathematics
 | **Role:** Principal Scientific Supervisor
 | **Period:** November 1, 2025 – present
-| **Funding:** Ministerial Decree No. 118 of 02-03-2023
+| **Funding:** `PRIN 2022 MEDITATE <https://meditate-project.github.io/index.html>`_
 
 Muhammad Waheed Kahn
 ~~~~~~~~~~~~~~~~~~~~
@@ -34,20 +34,21 @@ Idrees Ahmad
 ~~~~~~~~~~~~
 
 | **PhD Cycle:** XXXIX
+| **Research Focus:** Performance regression analysis and automated testing frameworks
 | **Institution:** University of L'Aquila – Department of Engineering, Information Science, and Mathematics
 | **Role:** Co-Supervisor
 | **Period:** May 1, 2024 – present
-| **Funding:** Ministerial Decree No. 118 of 02-03-2023
-| **Research Focus:** Performance regression analysis and automated testing frameworks
+| **Funding:** University of L'Aquila
 
 Payel Patra
 ~~~~~~~~~~~
 
 | **PhD Cycle:** XXXVIII
+| **Research Focus:** Clinical Data Analysis for AI-Driven Therapy Recommendation
 | **Institution:** University of L'Aquila – Department of Engineering, Information Science, and Mathematics
 | **Role:** Co-Supervisor
 | **Period:** November 1, 2022 – present
-| **Research Focus:** Multi-objective optimization for software architectures
+| **Funding:** `SoBigData.it <https://sobigdata.it/>`_
 
 Post-doctoral Research Supervision
 ==================================

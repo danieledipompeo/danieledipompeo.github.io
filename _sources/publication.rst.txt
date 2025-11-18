@@ -15,6 +15,11 @@ Journals
 
 **2026**
 
+- | Martin Beseda, Vittorio Cortellessa, Daniele Di Pompeo, Luca Traini, Michele Tucci
+  | **A kernel-based approach for accurate steady-state detection in performance time series**.
+  | *Future Generation Computer Systems (FGCS)*, Volume 117, Pages 108233, 2026.
+  | DOI: `10.1016/j.future.2025.108233 <https://doi.org/10.1016/j.future.2025.108233>`_
+
 - | Jorge Andrés Díaz Pace, Daniele Di Pompeo, Michele Tucci.
   | **On the role of search budgets in model-based software refactoring optimization**.
   | *Automated Software Engineering (ASE)*, 33, Article 18, 2026.
