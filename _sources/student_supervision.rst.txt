@@ -122,6 +122,10 @@ Master's and Bachelor's Thesis Supervision
   
   *Title:* Design and Implementation of a Library for Java Project Refactoring
 
+* [BSc] **Alberto Isotti** - University of L'Aquila (March 2023)
+  
+  *Title:* Design and Implementation of a Library for Java Project Refactoring
+
 2022
 ----
 

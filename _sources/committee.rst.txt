@@ -77,6 +77,9 @@ Program committees
 2026
 ++++++++++++++
 
+* | *International Conference on Web Services 2026 (ICWS 2026)*
+  | https://services.conferences.computer.org/2026/icws/
+
 * | *42nd International Conference on Software Maintenance and Evolution (ICSME 2026)*
   | https://conf.researchr.org/home/icsme-2026
 
@@ -99,7 +102,7 @@ Program committees
   | https://conf.researchr.org/home/ease-2025
 
 * | *International Conference on Web Services 2025 (ICWS 2025)*
-  | https://icws2025.conferenceservices.net/ 
+  | https://services.conferences.computer.org/2025/icws-2025/
 
 * | *22nd International Conference on Service-Oriented Computing (ICSOC 2025)*
   | https://icsoc2025.redcad.tn/

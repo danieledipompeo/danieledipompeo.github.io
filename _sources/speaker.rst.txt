@@ -31,7 +31,7 @@ Conference Presentations
 
 * 
   | *Harnessing Genetic Improvement for Sustainable Software Architectures* 
-  | 8th International Workshop on Green and Sustainable Software (GREENS’24)
+  | 8th International Workshop on Green and Sustainable Software (GREENS'24)
 
 *  
   | *Performance of Genetic Algorithms in the Context of Software Model Refactoring* 
