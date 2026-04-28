@@ -77,6 +77,9 @@ Program committees
 2026
 ++++++++++++++
 
+* | *24th International Conference on Service-Oriented Computing (ICSOC 2026)*
+  | https://icsoc2026.it.p.lodz.pl/
+
 * | *International Conference on Web Services 2026 (ICWS 2026)*
   | https://services.conferences.computer.org/2026/icws/
 
@@ -104,8 +107,8 @@ Program committees
 * | *International Conference on Web Services 2025 (ICWS 2025)*
   | https://services.conferences.computer.org/2025/icws-2025/
 
-* | *22nd International Conference on Service-Oriented Computing (ICSOC 2025)*
-  | https://icsoc2025.redcad.tn/
+* | *23rd International Conference on Service-Oriented Computing (ICSOC 2025)*
+  | http://icsoc2025.hit.edu.cn/
 
 * | *22nd IEEE International Conference on Software Architecture (ICSA 2025)*
   | https://conf.researchr.org/committee/icsa-2025/icsa-2025-papers-program-committee

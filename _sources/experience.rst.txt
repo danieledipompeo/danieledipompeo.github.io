@@ -18,9 +18,10 @@ Current Position
 
   - Ph.D. Co-advising (`external website <http://phdict.disim.univaq.it/students/>`_):
    
-    * Muhammad Waheed Khan (XXXIX cycle)  
-    * Idrees Ahmad (XXXIX cycle)  
-    * Payel Patra (XXXVIII cycle)  
+    * Ayaz Ahmed (XLI cycle) — Main Supervisor
+    * Muhammad Waheed Khan (XXXIX cycle) — Main Supervisor
+    * Idrees Ahmad (XXXIX cycle) — Co-Supervisor
+    * Payel Patra (XXXVIII cycle) — Co-Supervisor
 
   - Teaching:
 
@@ -39,10 +40,10 @@ Past Positions
   - Served as a member of the Exam Committee  
 
 * | **Post-Doctoral Researcher**, Center of Excellence EMERGE, Italy  
-  | **Period:** 1st November 2019 – 28th February 2023  
+  | **Period:** 1st November 2020 – 28th February 2023  
 
 * | **Post-Doctoral Researcher**, Center of Excellence DEWS, Italy  
-  | **Period:** 1st November 2018 – 31st October 2020  
+  | **Period:** 1st December 2018 – 31st October 2020  
 
 Visiting Experiences
 ^^^^^^^^^^^^^^^^^^^^

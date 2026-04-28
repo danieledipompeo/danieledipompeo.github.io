@@ -71,7 +71,22 @@ Interdisciplinary research initiative focusing on prevention and management of n
 Master's and Bachelor's Thesis Supervision
 ==========================================
 
-.. MSc: 1(2), BSc: 6(6)
+.. MSc: 1(2), BSc: 9(7)
+
+2026
+----
+
+* [BSc] **Massimo Di Pietrantonio** - University of L'Aquila (expected July 2026)
+  
+  *Title:* Bridging Automotive Test Scenario Specification Standards through Translation from OpenSCENARIO to Scenic
+
+* [BSc] **Federico Berardinelli** - University of l'Aquila (expected July 2026)
+  
+  *Title:* Design and Implementation of a Distributed Tracing System for Energy Monitoring in Spring Boot Applications ​
+
+* [BSc] **Mattia Di Sante** - University of L'Aquila (expected July 2026)
+  
+  *Title:* TBD
 
 2025
 ----

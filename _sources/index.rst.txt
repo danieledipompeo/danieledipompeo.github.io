@@ -6,24 +6,25 @@
 Daniele Di Pompeo, PhD
 ====================================
 
-Daniele Di Pompeo is an Assistant Professor (RTD-a) at the University of L'Aquila, Italy. He received his Ph.D. in ICT from the University of L'Aquila in 2019.
-His research interests include model-based performance analysis, software refactoring, and search-based software engineering.
-He has been elected as an "Expert of the subject" of Software Quality Engineering since 2019.
-He is a member of the `SPENCER research group <https://spencerlab-uaq.github.io>`_.
-His research activity is currently supported by the European project `SoBigData.it <http://sobigdata.eu/>`_.
+Daniele Di Pompeo is an Assistant Professor (RTD-a) at the University of L'Aquila, Italy, where he earned his Ph.D. in ICT in 2019.
+His research spans model-based performance analysis, software refactoring, and search-based software engineering.
+He serves as an "Expert of the Subject" in Software Quality Engineering and is an active member of the `SPENCER research group <https://spencerlab-uaq.github.io>`_.
+His research has been supported by the European project `SoBigData.it <http://sobigdata.eu/>`_ and is currently supported by the `Vitality <https://fondazionevitality.it/>`_ foundation.
 
 Interests:
 ^^^^^^^^^^
   - Performance analysis
-  - Model-Driven Engineering
-  - Search-Based Software Engineering 
+  - Search-Based Software Engineering
+  - Software Refactoring
+  - Sustainability
+  - Security 
 
-Contacts
+Contacts:
 ^^^^^^^^^^^^^
 
-- email: daniele.dipompeo@univaq.it
+- e-mail: daniele.dipompeo@univaq.it
 - office number: +39 0862 433183
-- address: DISIM - University of L'Aquila. Via Vetoio, 1 - Coppito 67010 L'Aquila, Italy
+- address: Department of Information Engineering, Computer Science and Mathematics (DISIM) - University of L'Aquila. Via Vetoio, 1 - Coppito 67010 L'Aquila, Italy
 
 
 .. toctree::
