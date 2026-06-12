@@ -26,6 +26,11 @@ Conference Presentations
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 * 
+  | *Performance Evolution of Jakarta EE Application Servers* 
+  | 14th International Workshop on
+Load Testing and Benchmarking of Software Systems (LTB 2026)
+
+* 
   | *Beyond Core Count: Optimizing Vertical Autoscaling with Performance-aware Hardware Configuration Selection* 
   | 21st European Performance Engineering Workshop (EPEW 2025)
 
