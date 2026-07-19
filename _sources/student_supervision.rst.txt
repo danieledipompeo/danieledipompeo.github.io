@@ -8,17 +8,17 @@ PhD Supervision
 Current PhD Students
 --------------------
 
-Ayaz Ahmed 
-~~~~~~~~~~~~~~~~~~~~
+Ayaz Ahmed
+~~~~~~~~~~
 
 | **PhD Cycle:** XLI
-| **Research Topic:** TBD
+| **Research Topic:** Model-based testing for Advanced Driving Assistance Systems
 | **Institution:** University of L'Aquila – Department of Engineering, Information Science, and Mathematics
 | **Role:** Principal Scientific Supervisor
 | **Period:** November 1, 2025 – present
 | **Funding:** `PRIN 2022 MEDITATE <https://meditate-project.github.io/index.html>`_
 
-Muhammad Waheed Kahn
+Mohammad Waheed Khan
 ~~~~~~~~~~~~~~~~~~~~
 
 | **PhD Cycle:** XXXIX
@@ -28,13 +28,13 @@ Muhammad Waheed Kahn
 | **Period:** December 1, 2023 – present
 | **Funding:** Ministerial Decree No. 118 of 02-03-2023
 | **International Collaboration:**
-  6-month research stay at University College Dublin under co-supervision of Prof. `Liliana Pasquale <https://lpasquale.github.io/>`_
+  6-month research stay at University College Dublin under co-supervision of Prof. Liliana Pasquale (https://lpasquale.github.io/)
 
 Idrees Ahmad
 ~~~~~~~~~~~~
 
 | **PhD Cycle:** XXXIX
-| **Research Focus:** Performance regression analysis and automated testing frameworks
+| **Research Topic:** Performance regression analysis and automated testing frameworks
 | **Institution:** University of L'Aquila – Department of Engineering, Information Science, and Mathematics
 | **Role:** Co-Supervisor
 | **Period:** May 1, 2024 – present
@@ -44,10 +44,10 @@ Payel Patra
 ~~~~~~~~~~~
 
 | **PhD Cycle:** XXXVIII
-| **Research Focus:** Clinical Data Analysis for AI-Driven Therapy Recommendation
+| **Research Topic:** Clinical Data Analysis for AI-Driven Therapy Recommendation
 | **Institution:** University of L'Aquila – Department of Engineering, Information Science, and Mathematics
 | **Role:** Co-Supervisor
-| **Period:** November 1, 2022 – present
+| **Period:** November 1, 2022 – December 31, 2025
 | **Funding:** `SoBigData.it <https://sobigdata.it/>`_
 
 Post-doctoral Research Supervision
@@ -71,110 +71,110 @@ Interdisciplinary research initiative focusing on prevention and management of n
 Master's and Bachelor's Thesis Supervision
 ==========================================
 
-.. MSc: 1(2), BSc: 9(7)
+.. MSc: 4, BSc: 16
 
 2026
 ----
 
 * [BSc] **Massimo Di Pietrantonio** - University of L'Aquila (expected July 2026)
-  
+
   *Title:* Bridging Automotive Test Scenario Specification Standards through Translation from OpenSCENARIO to Scenic
 
-* [BSc] **Federico Berardinelli** - University of l'Aquila (expected July 2026)
-  
+* [BSc] **Federico Berardinelli** - University of L'Aquila (expected July 2026)
+
   *Title:* Design and Implementation of a Distributed Tracing System for Energy Monitoring in Spring Boot Applications ​
 
 * [BSc] **Mattia Di Sante** - University of L'Aquila (expected July 2026)
-  
-  *Title:* TBD
+
+  *Title:* Performance Optimization of MongoDB Through Automated Configuration Tuning
 
 2025
 ----
 
 * [BSc] **Manuel Di Cresce** - University of L'Aquila (October 2025)
-  
+
   *Title:* Architectural Refactoring and Front-end Redesign of a Legacy Performance Modeling Software
 
 * [BSc] **Federico Capricci** - University of L'Aquila (October 2025)
-  
+
   *Title:* Analysis of Refactoring Impact on Energy Consumption in Open-Source Projects
 
 * [BSc] **Simone Di Prospero** - University of L'Aquila (March 2025)
-  
+
   *Title:* Historical Analysis of Energy Consumption in Open-Source Software Projects Using Perf and RAPL
 
 2024
 ----
 
 * [BSc] **Alessandro Di Giacomo** - University of L'Aquila (December 2024)
-  
+
   *Title:* Evaluation of Response Times and Resource Utilization of Java Web Frameworks
 
 * [BSc] **Agostino D'Agostino** - University of L'Aquila (December 2024)
-  
+
   *Title:* Exploring the Impact of Configuration Parameters on MongoDB Performance
 
 * [MSc] **Giacomo Sfratato** - University of L'Aquila (July 2024)
-  
+
   *Title:* Performance Analysis of Recent Evolution in Thread-based Parallelism in Python
 
 * [BSc] **Vincenzo Marono** - University of L'Aquila (March 2024)
-  
+
   *Title:* Comparative Performance Study of JavaScript Frameworks in Interactive Live Streaming Context
 
 * [MSc] **Muhammad Usama Bin Abad** - University of L'Aquila (March 2024)
-  
+
   *Title:* Automated Classification of Performance Issues in Open-Source Repositories
 
-* [MSc] **Michele Intrevado** - University of L'Aquila (March 2024)
-  
+* [MSc] **Michele Intrevado** - University of L'Aquila (December 2024)
+
   *Title:* Microbenchmarking in Functional Programming with Elixir
 
 2023
 ----
 
 * [BSc] **Alessandro Sablone** - University of L'Aquila (July 2023)
-  
+
   *Title:* Design and Implementation of a Library for Java Project Refactoring
 
 * [BSc] **Alberto Isotti** - University of L'Aquila (March 2023)
-  
+
   *Title:* Design and Implementation of a Library for Java Project Refactoring
 
 2022
 ----
 
 * [BSc] **Michele Intrevado** - University of L'Aquila (March 2022)
-  
+
   *Title:* Extension of Java Unit Tests with Performance Measurements
 
 2021
 ----
 
 * [BSc] **Enrico Simone Adamelli** - University of L'Aquila (December 2021)
-  
+
   *Title:* Study of a Technique for Reporting Performance Analysis Results on Source Code
 
 * [BSc] **Vincenzo De Petris** - University of L'Aquila (March 2021)
-  
+
   *Title:* Performance Benchmarking of a Java Microservices-based Application
 
 2020
 ----
 
 * [BSc] **Natan Cieplinski** - University of L'Aquila (October 2020)
-  
+
   *Title:* Performance Analysis of J2EE Applications Using SPEC Benchmarks
 
 2018
 ----
 
 * [MSc] **Marisa Fallone** - University of L'Aquila (November 2018)
-  
+
   *Title:* Design, Development and Analysis of a Web Application Based on Microservices Architecture
 
 * [BSc] **Stefano Di Francesco** - University of L'Aquila (November 2018)
-  
+
   *Title:* Reverse Engineering of a Web Application in UML+MARTE and Model Integration with Performance Monitoring Results
 
 .. cv-end

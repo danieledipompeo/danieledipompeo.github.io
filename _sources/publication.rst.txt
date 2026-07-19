@@ -90,7 +90,7 @@ Conferences
 - | Daniele Di Pompeo, Andrea Reale, Michele Tucci.
   | **Performance Evolution of Jakarta EE Application Servers**.
   | *14th International Workshop on Load Testing and Benchmarking of Software Systems (LTB 2026)*, pp. 228-235. 2026.
-  | DOI: `10.1145/3485136 <https://doi.org/10.1145/3485136>`_
+  | DOI: `10.1145/3777911.3800699 <https://doi.org/10.1145/3777911.3800699>`_
 
 **2024**
 
