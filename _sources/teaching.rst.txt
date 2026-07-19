@@ -4,8 +4,6 @@
 Teaching Activities
 ====================
 
-.. cv-start
-
 .. _agile_programming_methodologies:
 
 Agile Programming Methodologies
@@ -97,8 +95,6 @@ Advanced Verification and Validation
 - Co-simulation validation techniques
 - Performance and reliability validation
 - Performance testing in CI/CD pipelines
-
-.. cv-end
 
 .. toctree::
    :maxdepth: 1

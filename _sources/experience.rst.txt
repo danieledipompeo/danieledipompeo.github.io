@@ -8,7 +8,6 @@ Professional Experience
    :local:
    :depth: 2
 
-.. cv-start
 Current Position
 ^^^^^^^^^^^^^^^^
 
@@ -54,5 +53,4 @@ Visiting Experiences
   | **Research Program:**
   
       - Investigated combining functional and non-functional objectives in the context of multi-objective optimization for software refactoring, where non-functional objectives were supported by performance antipattern detection and resolution.  
-      - Explored the porting of model-based performance antipattern detection and resolution techniques from the model level to the code level.  
-.. cv-end
+      - Explored the porting of model-based performance antipattern detection and resolution techniques from the model level to the code level.

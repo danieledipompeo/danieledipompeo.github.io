@@ -8,8 +8,6 @@ Publications
    :depth: 1
    :local:
 
-.. cv-start
-
 Journals
 ========
 
@@ -369,5 +367,3 @@ Others
   | **On the Impact of Performance Antipatterns in Multi-Objective Software Model Refactoring Optimization**.  
   | *arXiv preprint*, arXiv:2107.06127, 2021.  
   | URL: `https://arxiv.org/abs/2107.06127 <https://arxiv.org/abs/2107.06127>`_
-
-  .. cv-end

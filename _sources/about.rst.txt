@@ -4,11 +4,9 @@
 ========
 About Me
 ========
-.. cv-start
 Welcome to my academic and research profile. I am a researcher and educator at the University of L'Aquila, Department of Engineering, Information Science, and Mathematics, specializing in **Software Performance Engineering** and **Search-Based Software Engineering**. My work focuses on developing innovative solutions for software quality assessment, performance optimization, and sustainable software architectures.
 
 With over a decade of experience in software engineering research, I lead and participate in national and European research projects, supervise PhD students, and teach advanced programming methodologies. My research bridges the gap between theoretical computer science and practical software engineering challenges, particularly in emerging domains such as autonomous vehicles, microservices architectures, and energy-aware computing.
-.. cv-end
 
 Current Research Focus
 ======================
