@@ -83,6 +83,11 @@ Program committees
 * | *IEEE International Conference on Software Architecture (ICSA 2027)*
   | https://conf.researchr.org/home/icsa-2027
 
+**Workshops**
+
+* | *IEEE International Conference on Software Architecture - NEMI Track (ICSA 2027)*
+  | https://conf.researchr.org/home/icsa-2027
+
 2026
 ++++++++++++++
 
@@ -173,6 +178,9 @@ Program committees
 
 **Workshops**
 
+* | *IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)*
+  | https://conf.researchr.org/track/saner-2024/saner-2024-papers
+
 * | *Workshop on Artificial Intelligence for Performance Modeling, Prediction, and Control (AiPerf 2024)*
   | https://aiperf.github.io/aiperf2024/
 
@@ -184,9 +192,6 @@ Program committees
 
 * | *Artifact Evaluation Committee - 46th International Conference on Software Engineering (ICSE 2024)*
   | https://conf.researchr.org/track/icse-2024/icse-2024-artifact-evaluation
-
-* | *IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)*
-  | https://conf.researchr.org/track/saner-2024/saner-2024-papers
 
 * | *International Workshop on Foundations and Practice of Visual Modeling (FPVM 2024)*
   | https://fpvm.github.io/

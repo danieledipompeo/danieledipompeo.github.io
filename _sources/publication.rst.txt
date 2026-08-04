@@ -13,6 +13,11 @@ Journals
 
 **2026**
 
+- | Yuanjie Xia, Kundi Yao, Lizhi Liao, Daniele Di Pompeo, Catia Trubiani, Boris Zibitsker, and Weiyi Shang.
+  | **HQP: Hybrid Queueing and Configuration-Aware Performance Modeling for Microservice Systems**. 
+  | *ACM Transanctions on Software Engineering Methodology (TOSEM)*, Just Accepted (August 2026). 
+  | DOI: `10.1145/3837763 <https://doi.org/10.1145/3837763>`_
+
 - | Martin Beseda, Vittorio Cortellessa, Daniele Di Pompeo, Luca Traini, Michele Tucci
   | **A kernel-based approach for accurate steady-state detection in performance time series**.
   | *Future Generation Computer Systems (FGCS)*, Volume 117, Pages 108233, 2026.
@@ -84,6 +89,11 @@ Conferences
 ===========
 
 **2026**
+
+- | Andres Diaz-Pace, Daniele Di Pompeo, Antonela Tommasel. 
+  | **A Surrogate-based Approach for Fast Multi-objective Architectural Refactoring Optimization**.
+  | *20th European Conference on Software Architecture (ECSA 2026)*, 
+  | DOI: *to appear*.
 
 - | Daniele Di Pompeo, Andrea Reale, Michele Tucci.
   | **Performance Evolution of Jakarta EE Application Servers**.

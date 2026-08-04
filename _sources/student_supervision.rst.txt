@@ -53,21 +53,6 @@ Payel Patra
 Post-doctoral Research Supervision
 ==================================
 
-Territori Aperti Research Grant (2024)
---------------------------------------
-
-**Title:** Personalization and Management of Research Technology Infrastructure for Territori Aperti
-
-**Role:** Co-Scientific Supervisor
-
-**Period:** July 1, 2024 – December 31, 2024
-
-**Funding:** University Project TERRITORI APERTI, supported by Fondo Territori Lavoro e Conoscenza (CGIL, CISL, UIL)
-
-**Description:**
-
-Interdisciplinary research initiative focusing on prevention and management of natural disasters, and reconstruction processes in affected areas. The project combines research, documentation, and training activities to develop comprehensive disaster management methodologies.
-
 Master's and Bachelor's Thesis Supervision
 ==========================================
 
@@ -82,7 +67,7 @@ Master's and Bachelor's Thesis Supervision
 
 * [BSc] **Federico Berardinelli** - University of L'Aquila (expected July 2026)
 
-  *Title:* Design and Implementation of a Distributed Tracing System for Energy Monitoring in Spring Boot Applications ​
+  *Title:* Design and Implementation of a Distributed Tracing System for Energy Monitoring in Spring Boot Applications
 
 * [BSc] **Mattia Di Sante** - University of L'Aquila (expected July 2026)
 

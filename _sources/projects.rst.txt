@@ -8,19 +8,41 @@ Research Projects
    :local:
    :depth: 2
 
+.. cv-start
 
 Current Active Projects
 =======================
+
+SoBigData --- Implementation Phase – European Project (2026 – 2029)
+-------------------------------------------------------------------
+
+**Title:** SoBigData Implementation Phase
+
+**Role:** Member of the Local team
+
+**Funding:** European HORIZON-CSA, Grant Agreement No. 101292277
+Total Budget: €1,363,624.18 | University of L'Aquila allocation: €44,317.80
+
+**Budget:** €44,317.80
+
+**Description:** 
+SoBigData is a pan-European RI dedicated to social mining and big data analytics. The Implementation Phase of the SoBigData RI focuses on putting into action the plans developed during its preparatory stage.
+
+**Website:** https://www.sobigdata.eu/
 
 MEDITATE – National Project (2024 – 2026)
 -----------------------------------------
 
 **Title:** MEDITATE: towards Model-based gEneration anD optImizaTion of Advanced driver assistance systems Testing scEnarios in co-simulation
 
-**Role:** Task Leader:
+**Role:** PhD student Coordinator, Task Leader:
 
 - T3.1: Identification/Definition of a reference meta-model for ADAS testing
 - T3.2: Interoperability of ADAS co-simulation platforms
+
+**Team:** 
+
+- PhD student: Ayaz Amhed
 
 **Funding:** Italian Ministry of University and Research, PRIN 2022 (PE6 - Computer Science and Informatics)
 Directorial Decree n. 1401 of 18-09-2024
@@ -37,18 +59,17 @@ Development of an integrated framework for improving co-simulation-based validat
 - Co-simulation integration framework
 - Validation methodology for autonomous driving systems
 
-**Website:** TBD
+**Website:** https://meditate-project.github.io/index.html
 
 RECHARGE – National Project (2023 – 2025)
 -----------------------------------------
 
 **Title:** RECHARGE: Monitoring, Testing, and Characterization of Performance Regressions
 
-**Role:** PhD Student Coordinator, Research Fellow Coordinator
+**Role:** Member of the Local team
 
 **Team:** 
 
-- PhD Student: Idrees Ahmad
 - Research Fellow: Martin Beseda
 
 **Funding:** Italian Ministry of University and Research, PRIN 2022 PNRR (PE6 - Computer Science and Informatics)
@@ -58,7 +79,8 @@ Directorial Decree n. 1205 of 28-07-2023
 
 **Description:** 
 Development of a comprehensive framework leveraging static analysis and search-based algorithms for automating performance testing in CI/CD pipelines.
-*Research Pillars:*
+
+**Research Pillars:**
 
 - **Automated Performance Monitoring:** Real-time detection of performance degradations
 - **Automated Test Generation:** Co-generation of performance tests with functional tests
@@ -77,15 +99,18 @@ SoBigData.it – European Infrastructure (2020 – 2023)
 
 **Title:** SoBigData.it - Strengthening the Italian RI for Social Mining and Big Data Analytics
 
-**Role:** Work Package Leader (WP2 - Activity 2.12: UNIVAQ Research contribution to Virtual Laboratories)
+**Role:** Local Work Package Leader (WP2 - Activity 2.12: UNIVAQ Research contribution to Virtual Laboratories)
 
-**Funding:** European Union NextGenerationEU – PNRR
-Total: €3.510.000 | University of L'Aquila allocation: €380,000
+**Funding:** European Union NextGenerationEU - PNRR
+Total: €3,510,000 | WP2 allocation: €380,000
+
+**Budget:** EUR 3,510,000
 
 **Description:** 
 Enhancement of interdisciplinary research capabilities on social complexity through integration of data-driven and model-driven approaches.
 
 **Responsibilities:**
+
 - Lead Activity 2.12: Research contribution to Virtual Laboratories
 - Contribute to WP1 (Infrastructure setup)
 - Support Objective 2.2: Virtual Research Laboratories dissemination
@@ -109,6 +134,7 @@ Resolution n.70/2017 - L'Aquila Seismic Crater Development Program
 Development of enabling technologies for connected and autonomous vehicles with stringent safety requirements.
 
 **Key Contributions:**
+
 - Definition and validation of non-functional requirements for the entire EMERGE system
 - Collaboration with Moviri S.p.A. (Milan) for system verification activities
 - Integration of localization, communication, and cybersecurity technologies
@@ -144,3 +170,5 @@ Creation of a comprehensive framework incorporating methods and tools for contin
 - **Project Website:** https://megamart2-ecsel.eu/
 - **Deliverable D4.4:** http://hdl.handle.net/20.500.12004/1/P/MMART2/D4.4
 - **Project Toolbox:** http://toolbox.megamart2-ecsel.eu/content/padre
+
+.. cv-end
