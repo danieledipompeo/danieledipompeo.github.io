@@ -65,13 +65,19 @@ Master's and Bachelor's Thesis Supervision
 
   *Title:* Bridging Automotive Test Scenario Specification Standards through Translation from OpenSCENARIO to Scenic
 
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/26883 <https://tesionline.univaq.it/handle/20.500.12319/26883>`_
+
 * [BSc] **Federico Berardinelli** - University of L'Aquila (expected July 2026)
 
   *Title:* Design and Implementation of a Distributed Tracing System for Energy Monitoring in Spring Boot Applications
 
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/26887 <https://tesionline.univaq.it/handle/20.500.12319/26887>`_
+
 * [BSc] **Mattia Di Sante** - University of L'Aquila (expected July 2026)
 
   *Title:* Performance Optimization of MongoDB Through Automated Configuration Tuning
+
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/26888 <https://tesionline.univaq.it/handle/20.500.12319/26888>`_
 
 2025
 ----
@@ -80,13 +86,19 @@ Master's and Bachelor's Thesis Supervision
 
   *Title:* Architectural Refactoring and Front-end Redesign of a Legacy Performance Modeling Software
 
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/23010 <https://tesionline.univaq.it/handle/20.500.12319/23010>`_
+
 * [BSc] **Federico Capricci** - University of L'Aquila (October 2025)
 
   *Title:* Analysis of Refactoring Impact on Energy Consumption in Open-Source Projects
 
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/23005 <https://tesionline.univaq.it/handle/20.500.12319/23005>`_
+
 * [BSc] **Simone Di Prospero** - University of L'Aquila (March 2025)
 
   *Title:* Historical Analysis of Energy Consumption in Open-Source Software Projects Using Perf and RAPL
+
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/20095 <https://tesionline.univaq.it/handle/20.500.12319/20095>`_
 
 2024
 ----
@@ -95,25 +107,37 @@ Master's and Bachelor's Thesis Supervision
 
   *Title:* Evaluation of Response Times and Resource Utilization of Java Web Frameworks
 
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/19440 <https://tesionline.univaq.it/handle/20.500.12319/19440>`_
+
 * [BSc] **Agostino D'Agostino** - University of L'Aquila (December 2024)
 
   *Title:* Exploring the Impact of Configuration Parameters on MongoDB Performance
+
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/19441 <https://tesionline.univaq.it/handle/20.500.12319/19441>`_
 
 * [MSc] **Giacomo Sfratato** - University of L'Aquila (July 2024)
 
   *Title:* Performance Analysis of Recent Evolution in Thread-based Parallelism in Python
 
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/17035 <https://tesionline.univaq.it/handle/20.500.12319/17035>`_
+
 * [BSc] **Vincenzo Marono** - University of L'Aquila (March 2024)
 
   *Title:* Comparative Performance Study of JavaScript Frameworks in Interactive Live Streaming Context
+
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/15210 <https://tesionline.univaq.it/handle/20.500.12319/15210>`_
 
 * [MSc] **Muhammad Usama Bin Abad** - University of L'Aquila (March 2024)
 
   *Title:* Automated Classification of Performance Issues in Open-Source Repositories
 
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/15161 <https://tesionline.univaq.it/handle/20.500.12319/15161>`_
+
 * [MSc] **Michele Intrevado** - University of L'Aquila (December 2024)
 
   *Title:* Microbenchmarking in Functional Programming with Elixir
+
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/19460 <https://tesionline.univaq.it/handle/20.500.12319/19460>`_
 
 2023
 ----
@@ -122,9 +146,13 @@ Master's and Bachelor's Thesis Supervision
 
   *Title:* Design and Implementation of a Library for Java Project Refactoring
 
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/12461 <https://tesionline.univaq.it/handle/20.500.12319/12461>`_
+
 * [BSc] **Alberto Isotti** - University of L'Aquila (March 2023)
 
   *Title:* Design and Implementation of a Library for Java Project Refactoring
+
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/10202 <https://tesionline.univaq.it/handle/20.500.12319/10202>`_
 
 2022
 ----
@@ -133,6 +161,8 @@ Master's and Bachelor's Thesis Supervision
 
   *Title:* Extension of Java Unit Tests with Performance Measurements
 
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/6223 <https://tesionline.univaq.it/handle/20.500.12319/6223>`_
+
 2021
 ----
 
@@ -140,9 +170,13 @@ Master's and Bachelor's Thesis Supervision
 
   *Title:* Study of a Technique for Reporting Performance Analysis Results on Source Code
 
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/5461 <https://tesionline.univaq.it/handle/20.500.12319/5461>`_
+
 * [BSc] **Vincenzo De Petris** - University of L'Aquila (March 2021)
 
   *Title:* Performance Benchmarking of a Java Microservices-based Application
+
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/2301 <https://tesionline.univaq.it/handle/20.500.12319/2301>`_
 
 2020
 ----
@@ -150,6 +184,8 @@ Master's and Bachelor's Thesis Supervision
 * [BSc] **Natan Cieplinski** - University of L'Aquila (October 2020)
 
   *Title:* Performance Analysis of J2EE Applications Using SPEC Benchmarks
+
+  *URL:* `https://tesionline.univaq.it/handle/20.500.12319/1731 <https://tesionline.univaq.it/handle/20.500.12319/1731>`_
 
 2018
 ----
