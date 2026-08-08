@@ -80,6 +80,9 @@ Program committees
 
 **Main Conferences**
 
+* | *IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2027)*
+  | https://conf.researchr.org/home/saner-2027
+
 * | *IEEE International Conference on Software Architecture (ICSA 2027)*
   | https://conf.researchr.org/home/icsa-2027
 
