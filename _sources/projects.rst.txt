@@ -13,22 +13,23 @@ Research Projects
 Current Active Projects
 =======================
 
-SoBigData --- Implementation Phase – European Project (2026 – 2029)
--------------------------------------------------------------------
+SoBigData - Implementation Phase – European Project (2026 – 2029)
+-----------------------------------------------------------------
 
 **Title:** SoBigData Implementation Phase
 
 **Role:** Member of the Local team
 
 **Funding:** European HORIZON-CSA, Grant Agreement No. 101292277
-Total Budget: €1,363,624.18 | University of L'Aquila allocation: €44,317.80
 
-**Budget:** €44,317.80
+**Total budget:** €1,363,624.18
+
+**Local budget:** €44,317.80
 
 **Description:** 
 SoBigData is a pan-European RI dedicated to social mining and big data analytics. The Implementation Phase of the SoBigData RI focuses on putting into action the plans developed during its preparatory stage.
 
-**Website:** https://www.sobigdata.eu/
+**Website:** http://ip.sobigdata.eu/
 
 MEDITATE – National Project (2024 – 2026)
 -----------------------------------------
@@ -47,7 +48,9 @@ MEDITATE – National Project (2024 – 2026)
 **Funding:** Italian Ministry of University and Research, PRIN 2022 (PE6 - Computer Science and Informatics)
 Directorial Decree n. 1401 of 18-09-2024
 
-**Budget:** €XXX,XXX (total project budget)
+**Total budget:** €219,452
+
+**Local budget:** €71,381
 
 **Description:** 
 Development of an integrated framework for improving co-simulation-based validation of Advanced Driver Assistance Systems (ADAS). The project focuses on automated generation and optimization of test scenarios.
@@ -75,7 +78,9 @@ RECHARGE – National Project (2023 – 2025)
 **Funding:** Italian Ministry of University and Research, PRIN 2022 PNRR (PE6 - Computer Science and Informatics)
 Directorial Decree n. 1205 of 28-07-2023
 
-**Budget:** €257.017
+**Total budget:** €257,017
+
+**Local budget:** €85,673
 
 **Description:** 
 Development of a comprehensive framework leveraging static analysis and search-based algorithms for automating performance testing in CI/CD pipelines.
@@ -99,12 +104,14 @@ SoBigData.it – European Infrastructure (2020 – 2023)
 
 **Title:** SoBigData.it - Strengthening the Italian RI for Social Mining and Big Data Analytics
 
-**Role:** Local Work Package Leader (WP2 - Activity 2.12: UNIVAQ Research contribution to Virtual Laboratories)
+**Role:** Local Work Package Leader (WP2 - Activity 2.12: UNIVAQ Research contribution to Virtual Laboratories; WP2 budget: EUR 380,000)
 
 **Funding:** European Union NextGenerationEU - PNRR
-Total: €3,510,000 | WP2 allocation: €380,000
+No. 654024, 871042, 101079043 and National Recovery and Resilience Plan - Prot. IR0000013 – Avviso n. 3264 del 28/12/2021
 
-**Budget:** EUR 3,510,000
+**Total budget:** €19,998,550.00
+
+**Local budget:** €3,510,000
 
 **Description:** 
 Enhancement of interdisciplinary research capabilities on social complexity through integration of data-driven and model-driven approaches.
@@ -115,7 +122,7 @@ Enhancement of interdisciplinary research capabilities on social complexity thro
 - Contribute to WP1 (Infrastructure setup)
 - Support Objective 2.2: Virtual Research Laboratories dissemination
 
-**Website:** http://sobigdata.eu/
+**Website:** http://sobigdata.it/
 
 Completed Projects
 ==================
@@ -149,7 +156,8 @@ MegaM@Rt2 – European Project (2017 – 2020)
 **Role:** Task Leader (T4.4) and Tool Developer (WP5)
 
 **Funding:** ECSEL Joint Undertaking, Grant Agreement No. 737494
-Total Budget: €16.5 million
+
+**Total budget:** €16.5 million
 
 **Description:** 
 Creation of a comprehensive framework incorporating methods and tools for continuous development and validation using scalable model-based approaches.

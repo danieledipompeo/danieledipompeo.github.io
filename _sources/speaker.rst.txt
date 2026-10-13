@@ -27,6 +27,10 @@ Conference Presentations
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 * |
+  | *A Surrogate-based Approach for Fast Multi-objective Architectural Refactoring Optimization*
+  | 20th European Conference on Software Architecture (ECSA 2026)
+
+* |
   | *Performance Evolution of Jakarta EE Application Servers*
   | 14th International Workshop on Load Testing and Benchmarking of Software Systems (LTB 2026)
 
