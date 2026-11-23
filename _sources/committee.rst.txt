@@ -80,6 +80,12 @@ Program committees
 
 **Main Conferences**
 
+* | *IEEE International Symposiumon Cluster, Cloud, and Internet Computing (CCGrid 2027)*
+  | https://hpcclab.org/ccgrid27/
+
+* | *International Conference on Software Maintenance and Evolution (ICSME 2027)*
+  | https://conf.researchr.org/home/icsme-2027
+
 * | *IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2027)*
   | https://conf.researchr.org/home/saner-2027
 
@@ -87,6 +93,9 @@ Program committees
   | https://conf.researchr.org/home/icsa-2027
 
 **Workshops**
+
+* | *Workshop on Advances in Model Based Testing (A-MOST 2025)*
+  | https://conf.researchr.org/home/icst-2025/a-most-2025
 
 * | *New and Emerging Ideas (NEMI) --- IEEE International Conference on Software Architecture (ICSA 2027)*
   | https://conf.researchr.org/track/icsa-2027/icsa-2027-new-and-emerging-ideas
