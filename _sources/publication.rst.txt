@@ -100,6 +100,13 @@ Conferences
   | *14th International Workshop on Load Testing and Benchmarking of Software Systems (LTB 2026)*, pp. 228-235. 2026.
   | DOI: `10.1145/3777911.3800699 <https://doi.org/10.1145/3777911.3800699>`_
 
+**2025**
+
+- | Idrees Ahmad, Vittorio Cortellessa, Daniele Di Pompeo, Michele Tucci.
+  | **A Rule-Based Approach for the Generation of Efficient Workloads in Load Testing**.
+  | *QUATIC 2025 (1)*, pp. 316-331, 2025.
+  | DOI: `10.1007/978-3-032-20631-2_21 <https://doi.org/10.1007/978-3-032-20631-2_21>`_
+
 **2024**
 
 - | Daniele Di Pompeo, Michele Tucci.  
@@ -279,6 +286,11 @@ Others
 ======
 
 **2026**
+
+- | Diego Elias Costa, Michele Tucci, Luca Traini, Daniele Di Pompeo, Thomas Bach, François Farquet, David Daly, Simon Eismann, Petr Tuma, Vittorio Cortellessa, André van Hoorn.
+  | **Evaluating Change Point Detection Methods for Software Performance Regression Analysis**.
+  | *arXiv preprint*, arXiv:2610.09023, 2026.
+  | DOI: `10.48550/arXiv.2610.09023 <https://doi.org/10.48550/arXiv.2610.09023>`_
 
 - | Jorge Andrés Díaz Pace, Daniele Di Pompeo, Antonela Tommasel.
   | **A Surrogate-based Approach for Fast Multi-objective Architectural Refactoring Optimization**.
