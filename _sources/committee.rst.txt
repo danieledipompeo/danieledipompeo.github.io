@@ -94,8 +94,11 @@ Program committees
 
 **Workshops**
 
-* | *Workshop on Advances in Model Based Testing (A-MOST 2025)*
-  | https://conf.researchr.org/home/icst-2025/a-most-2025
+* | *International Workshop on Model-Driven Engineering for Software Architecture (MDE4SA 2027)*
+  | https://mde4sa.github.io/
+
+* | *Workshop on Advances in Model Based Testing (A-MOST 2027)*
+  | https://conf.researchr.org/home/icst-2025/a-most-2027
 
 * | *New and Emerging Ideas (NEMI) --- IEEE International Conference on Software Architecture (ICSA 2027)*
   | https://conf.researchr.org/track/icsa-2027/icsa-2027-new-and-emerging-ideas
